@@ -1,0 +1,26 @@
+{
+  "name": "saltline-duel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Saltline single-player and authoritative two-player online FPS",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test test/*.test.mjs",
+    "test:server": "node --test test/server.test.mjs",
+    "test:simulation": "node --test test/simulation.test.mjs",
+    "export-map": "node scripts/export-map.mjs",
+    "check-map": "node scripts/export-map.mjs --check",
+    "smoke-browser": "node scripts/smoke-browser.mjs"
+  },
+  "dependencies": {
+    "ws": "8.22.2"
+  },
+  "devDependencies": {
+    "playwright": "1.65.0"
+  }
+}
+
