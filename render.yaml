@@ -1,0 +1,15 @@
+# Deploy with Rebuild_Game as the repository root.
+services:
+  - type: web
+    name: saltline-duel
+    runtime: node
+    plan: free
+    region: singapore
+    rootDir: .
+    buildCommand: npm --prefix multiplayer ci --omit=dev
+    startCommand: node multiplayer/server.mjs
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+
