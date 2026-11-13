@@ -1,0 +1,10339 @@
+{
+  "version": "saltline-port-2",
+  "hash": "fnv1a-7f744fbe",
+  "seed": 4207,
+  "bounds": {
+    "min": {
+      "x": -40,
+      "y": 0,
+      "z": -30
+    },
+    "max": {
+      "x": 40,
+      "y": 30,
+      "z": 30
+    }
+  },
+  "groundY": 0,
+  "seaY": -1.6,
+  "quayX": 30,
+  "boxes": [
+    {
+      "min": {
+        "x": -22.496543,
+        "y": 0,
+        "z": -6.380722
+      },
+      "max": {
+        "x": -16.403457,
+        "y": 2.59,
+        "z": -3.859278
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.450499,
+        "y": 2.59,
+        "z": -6.391164
+      },
+      "max": {
+        "x": -16.375633,
+        "y": 5.18,
+        "z": -3.915974
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.52434,
+        "y": 5.18,
+        "z": -6.361627
+      },
+      "max": {
+        "x": -16.451434,
+        "y": 7.77,
+        "z": -3.891368
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.354981,
+        "y": 0,
+        "z": -6.402492
+      },
+      "max": {
+        "x": -10.245019,
+        "y": 2.59,
+        "z": -3.837508
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.34486,
+        "y": 0.14,
+        "z": -6.207036
+      },
+      "max": {
+        "x": -9.796571,
+        "y": 2.44,
+        "z": -3.897024
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.339083,
+        "y": 0.175,
+        "z": -6.365646
+      },
+      "max": {
+        "x": 0.785698,
+        "y": 2.466,
+        "z": -6.295735
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.046567,
+        "y": 0.175,
+        "z": -6.369207
+      },
+      "max": {
+        "x": 0.400048,
+        "y": 2.466,
+        "z": -6.299297
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.432217,
+        "y": 0.175,
+        "z": -6.372769
+      },
+      "max": {
+        "x": 0.014398,
+        "y": 2.466,
+        "z": -6.302858
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.323809,
+        "y": 0.175,
+        "z": -4.172944
+      },
+      "max": {
+        "x": 0.750144,
+        "y": 2.466,
+        "z": -3.976733
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.037366,
+        "y": 0.175,
+        "z": -4.308191
+      },
+      "max": {
+        "x": 0.388969,
+        "y": 2.466,
+        "z": -4.111979
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.39854,
+        "y": 0.175,
+        "z": -4.443438
+      },
+      "max": {
+        "x": 0.027795,
+        "y": 2.466,
+        "z": -4.247226
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.650632,
+        "y": 2.5,
+        "z": -6.387972
+      },
+      "max": {
+        "x": 6.749368,
+        "y": 2.59,
+        "z": -3.852028
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.650632,
+        "y": 0,
+        "z": -4.020284
+      },
+      "max": {
+        "x": 6.71097,
+        "y": 2.59,
+        "z": -3.852028
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.68903,
+        "y": 0,
+        "z": -6.387972
+      },
+      "max": {
+        "x": 6.749368,
+        "y": 2.59,
+        "z": -6.219716
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 6.639844,
+        "y": 0,
+        "z": -6.290842
+      },
+      "max": {
+        "x": 6.749368,
+        "y": 2.59,
+        "z": -3.852028
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.682383,
+        "y": 2.59,
+        "z": -6.391719
+      },
+      "max": {
+        "x": 6.772599,
+        "y": 5.18,
+        "z": -3.877614
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.4891,
+        "y": 0,
+        "z": -6.36635
+      },
+      "max": {
+        "x": 16.5709,
+        "y": 2.59,
+        "z": -3.87365
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.527227,
+        "y": 2.59,
+        "z": -6.347625
+      },
+      "max": {
+        "x": 16.587596,
+        "y": 5.18,
+        "z": -3.908707
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.480149,
+        "y": 0,
+        "z": 0.86063
+      },
+      "max": {
+        "x": -16.419851,
+        "y": 2.59,
+        "z": 3.29937
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.380727,
+        "y": 0,
+        "z": 0.859191
+      },
+      "max": {
+        "x": -10.319273,
+        "y": 2.59,
+        "z": 3.300809
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -5.316804,
+        "y": 0,
+        "z": 0.74683
+      },
+      "max": {
+        "x": 6.916804,
+        "y": 2.59,
+        "z": 3.41317
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -5.348503,
+        "y": 2.59,
+        "z": 0.81912
+      },
+      "max": {
+        "x": 6.863641,
+        "y": 5.18,
+        "z": 3.370367
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.776293,
+        "y": 5.18,
+        "z": 0.797654
+      },
+      "max": {
+        "x": 6.865072,
+        "y": 7.77,
+        "z": 3.308095
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.26691,
+        "y": 0,
+        "z": 0.853298
+      },
+      "max": {
+        "x": 15.33309,
+        "y": 2.59,
+        "z": 3.306702
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.265678,
+        "y": 2.59,
+        "z": 0.798714
+      },
+      "max": {
+        "x": 15.352224,
+        "y": 5.18,
+        "z": 3.303468
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -24.132656,
+        "y": 0,
+        "z": 8.694384
+      },
+      "max": {
+        "x": -18.067344,
+        "y": 2.59,
+        "z": 11.145616
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.634599,
+        "y": 0,
+        "z": 8.689523
+      },
+      "max": {
+        "x": -10.565401,
+        "y": 2.59,
+        "z": 11.150477
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.626176,
+        "y": 2.59,
+        "z": 8.691602
+      },
+      "max": {
+        "x": -10.559532,
+        "y": 5.18,
+        "z": 11.146162
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.642452,
+        "y": 5.18,
+        "z": 8.69875
+      },
+      "max": {
+        "x": -10.573485,
+        "y": 7.77,
+        "z": 11.159126
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -24.630255,
+        "y": 0,
+        "z": 11.200366
+      },
+      "max": {
+        "x": -18.569745,
+        "y": 2.59,
+        "z": 13.639634
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -24.618696,
+        "y": 2.59,
+        "z": 11.200572
+      },
+      "max": {
+        "x": -18.558544,
+        "y": 5.18,
+        "z": 13.638951
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -24.632612,
+        "y": 5.18,
+        "z": 11.194876
+      },
+      "max": {
+        "x": -18.569498,
+        "y": 7.77,
+        "z": 13.640628
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.46913,
+        "y": 0.175,
+        "z": 13.40923
+      },
+      "max": {
+        "x": -12.053051,
+        "y": 2.466,
+        "z": 13.619769
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.113208,
+        "y": 0.175,
+        "z": 13.26071
+      },
+      "max": {
+        "x": -11.697128,
+        "y": 2.466,
+        "z": 13.471249
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -11.757285,
+        "y": 0.175,
+        "z": 13.11219
+      },
+      "max": {
+        "x": -11.341206,
+        "y": 2.466,
+        "z": 13.322729
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.463658,
+        "y": 0.175,
+        "z": 11.236689
+      },
+      "max": {
+        "x": -12.095697,
+        "y": 2.466,
+        "z": 11.530824
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.157075,
+        "y": 0.175,
+        "z": 11.470667
+      },
+      "max": {
+        "x": -11.789113,
+        "y": 2.466,
+        "z": 11.764801
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -11.850492,
+        "y": 0.175,
+        "z": 11.704644
+      },
+      "max": {
+        "x": -11.48253,
+        "y": 2.466,
+        "z": 11.998779
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.433183,
+        "y": 2.5,
+        "z": 11.193068
+      },
+      "max": {
+        "x": -12.366817,
+        "y": 2.59,
+        "z": 13.646932
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.42698,
+        "y": 0,
+        "z": 11.193068
+      },
+      "max": {
+        "x": -12.366817,
+        "y": 2.59,
+        "z": 11.27894
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.433183,
+        "y": 0,
+        "z": 13.56106
+      },
+      "max": {
+        "x": -12.37302,
+        "y": 2.59,
+        "z": 13.646932
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.433183,
+        "y": 0,
+        "z": 11.193068
+      },
+      "max": {
+        "x": -18.356797,
+        "y": 2.59,
+        "z": 13.631243
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.4,
+        "y": 0,
+        "z": 11.201
+      },
+      "max": {
+        "x": 7.46,
+        "y": 2.59,
+        "z": 13.639
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.5,
+        "y": 0,
+        "z": 11.201
+      },
+      "max": {
+        "x": 16.56,
+        "y": 2.59,
+        "z": 13.639
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1.6,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": -1.4,
+        "y": 0.2,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1.4,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": -1.2,
+        "y": 0.4,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1.2,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": -1,
+        "y": 0.6,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": -0.8,
+        "y": 0.8,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.8,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": -0.6,
+        "y": 1,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.6,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": -0.4,
+        "y": 1.2,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.4,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": -0.2,
+        "y": 1.4,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.2,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": 0,
+        "y": 1.6,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": 0.2,
+        "y": 1.8,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.2,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": 0.4,
+        "y": 2,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.4,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": 0.6,
+        "y": 2.2,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.6,
+        "y": 0,
+        "z": 11.92
+      },
+      "max": {
+        "x": 0.8,
+        "y": 2.4,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.8,
+        "y": 2.4,
+        "z": 11.92
+      },
+      "max": {
+        "x": 1.4,
+        "y": 2.6,
+        "z": 12.92
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.3,
+        "y": 0,
+        "z": 11.93
+      },
+      "max": {
+        "x": 1.38,
+        "y": 2.4,
+        "z": 12.01
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.3,
+        "y": 0,
+        "z": 12.83
+      },
+      "max": {
+        "x": 1.38,
+        "y": 2.4,
+        "z": 12.91
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.8,
+        "y": 2.6,
+        "z": 11.905
+      },
+      "max": {
+        "x": 1.4,
+        "y": 3.62,
+        "z": 11.965
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.8,
+        "y": 2.6,
+        "z": 12.875
+      },
+      "max": {
+        "x": 1.4,
+        "y": 3.62,
+        "z": 12.935
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.48,
+        "y": 2.51,
+        "z": 11.82
+      },
+      "max": {
+        "x": 10.48,
+        "y": 2.59,
+        "z": 13.02
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.48,
+        "y": 2.59,
+        "z": 11.82
+      },
+      "max": {
+        "x": 10.48,
+        "y": 3.64,
+        "z": 11.89
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.48,
+        "y": 2.59,
+        "z": 12.95
+      },
+      "max": {
+        "x": 10.48,
+        "y": 3.64,
+        "z": 13.02
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 15.65,
+        "y": 2.59,
+        "z": 11.42
+      },
+      "max": {
+        "x": 16.25,
+        "y": 3.49,
+        "z": 13.42
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 13.707823,
+        "y": 2.59,
+        "z": 11.24734
+      },
+      "max": {
+        "x": 14.892177,
+        "y": 3.59,
+        "z": 12.25266
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.3,
+        "y": 2.59,
+        "z": 11.45
+      },
+      "max": {
+        "x": 3.3,
+        "y": 3.49,
+        "z": 12.05
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.514507,
+        "y": 0,
+        "z": 18.799387
+      },
+      "max": {
+        "x": -10.285493,
+        "y": 2.59,
+        "z": 21.440613
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.465793,
+        "y": 2.59,
+        "z": 18.813889
+      },
+      "max": {
+        "x": -10.255831,
+        "y": 5.18,
+        "z": 21.353746
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -5.292809,
+        "y": 0,
+        "z": 18.868805
+      },
+      "max": {
+        "x": 0.792809,
+        "y": 2.59,
+        "z": 21.371195
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.79972,
+        "y": 0,
+        "z": 18.849679
+      },
+      "max": {
+        "x": 6.90028,
+        "y": 2.59,
+        "z": 21.390321
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.815385,
+        "y": 2.59,
+        "z": 18.8839
+      },
+      "max": {
+        "x": 6.901261,
+        "y": 5.18,
+        "z": 21.386948
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.481536,
+        "y": 0,
+        "z": 18.854353
+      },
+      "max": {
+        "x": 16.578464,
+        "y": 2.59,
+        "z": 21.385647
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.45586,
+        "y": 2.59,
+        "z": 18.838683
+      },
+      "max": {
+        "x": 16.543711,
+        "y": 5.18,
+        "z": 21.34676
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.452421,
+        "y": 5.18,
+        "z": 18.889243
+      },
+      "max": {
+        "x": 16.532575,
+        "y": 7.77,
+        "z": 21.377779
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.50509,
+        "y": 0,
+        "z": 21.349505
+      },
+      "max": {
+        "x": -10.29491,
+        "y": 2.9,
+        "z": 23.890495
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.501037,
+        "y": 2.9,
+        "z": 21.316128
+      },
+      "max": {
+        "x": -10.281422,
+        "y": 5.49,
+        "z": 23.906801
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.539729,
+        "y": 5.49,
+        "z": 21.353578
+      },
+      "max": {
+        "x": -10.318899,
+        "y": 8.08,
+        "z": 23.950725
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -5.308864,
+        "y": 0,
+        "z": 21.329674
+      },
+      "max": {
+        "x": 6.908864,
+        "y": 2.59,
+        "z": 23.910326
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -5.308369,
+        "y": 2.59,
+        "z": 21.378997
+      },
+      "max": {
+        "x": 6.898928,
+        "y": 5.49,
+        "z": 23.905008
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.437972,
+        "y": 0.175,
+        "z": 23.539629
+      },
+      "max": {
+        "x": 16.776756,
+        "y": 2.466,
+        "z": 23.880276
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.715492,
+        "y": 0.175,
+        "z": 23.27182
+      },
+      "max": {
+        "x": 17.054276,
+        "y": 2.466,
+        "z": 23.612467
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.993012,
+        "y": 0.175,
+        "z": 23.004011
+      },
+      "max": {
+        "x": 17.331796,
+        "y": 2.466,
+        "z": 23.344658
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.480709,
+        "y": 0.175,
+        "z": 21.491751
+      },
+      "max": {
+        "x": 16.770944,
+        "y": 2.466,
+        "z": 21.872823
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.696258,
+        "y": 0.175,
+        "z": 21.811559
+      },
+      "max": {
+        "x": 16.986493,
+        "y": 2.466,
+        "z": 22.192632
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.911807,
+        "y": 0.175,
+        "z": 22.131367
+      },
+      "max": {
+        "x": 17.202043,
+        "y": 2.466,
+        "z": 22.51244
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.474728,
+        "y": 2.5,
+        "z": 21.336751
+      },
+      "max": {
+        "x": 16.585272,
+        "y": 2.59,
+        "z": 23.903249
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.525156,
+        "y": 0,
+        "z": 21.336751
+      },
+      "max": {
+        "x": 16.585272,
+        "y": 2.59,
+        "z": 21.535786
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.474728,
+        "y": 0,
+        "z": 23.704214
+      },
+      "max": {
+        "x": 16.534844,
+        "y": 2.59,
+        "z": 23.903249
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.474728,
+        "y": 0,
+        "z": 21.336751
+      },
+      "max": {
+        "x": 10.59663,
+        "y": 2.59,
+        "z": 23.775689
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -23.947729,
+        "y": 0,
+        "z": -25.319435
+      },
+      "max": {
+        "x": -21.252271,
+        "y": 2.59,
+        "z": -13.080565
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -23.833022,
+        "y": 2.59,
+        "z": -25.281403
+      },
+      "max": {
+        "x": -21.345095,
+        "y": 5.18,
+        "z": -13.081516
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.098427,
+        "y": 0.175,
+        "z": -18.649187
+      },
+      "max": {
+        "x": -26.710366,
+        "y": 2.466,
+        "z": -18.31451
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -26.872029,
+        "y": 0.175,
+        "z": -18.961409
+      },
+      "max": {
+        "x": -26.483968,
+        "y": 2.466,
+        "z": -18.626733
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -26.645631,
+        "y": 0.175,
+        "z": -19.273632
+      },
+      "max": {
+        "x": -26.25757,
+        "y": 2.466,
+        "z": -18.938955
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.822611,
+        "y": 0.175,
+        "z": -20.607235
+      },
+      "max": {
+        "x": -27.458204,
+        "y": 2.466,
+        "z": -20.237945
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.475818,
+        "y": 0.175,
+        "z": -20.438494
+      },
+      "max": {
+        "x": -27.111411,
+        "y": 2.466,
+        "z": -20.069204
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.129025,
+        "y": 0.175,
+        "z": -20.269753
+      },
+      "max": {
+        "x": -26.764618,
+        "y": 2.466,
+        "z": -19.900463
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.206532,
+        "y": 2.5,
+        "z": -19.312053
+      },
+      "max": {
+        "x": -30.039767,
+        "y": 2.59,
+        "z": -16.448966
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -30.360233,
+        "y": 2.5,
+        "z": -20.351034
+      },
+      "max": {
+        "x": -27.193468,
+        "y": 2.59,
+        "z": -17.487947
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.422763,
+        "y": 0,
+        "z": -18.694762
+      },
+      "max": {
+        "x": -32.912557,
+        "y": 2.59,
+        "z": -18.459508
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.853503,
+        "y": 0,
+        "z": -18.902558
+      },
+      "max": {
+        "x": -32.343298,
+        "y": 2.59,
+        "z": -18.667304
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.284244,
+        "y": 0,
+        "z": -19.110355
+      },
+      "max": {
+        "x": -31.774038,
+        "y": 2.59,
+        "z": -18.8751
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -31.714984,
+        "y": 0,
+        "z": -19.318151
+      },
+      "max": {
+        "x": -31.204778,
+        "y": 2.59,
+        "z": -19.082896
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -31.145724,
+        "y": 0,
+        "z": -19.525947
+      },
+      "max": {
+        "x": -30.635518,
+        "y": 2.59,
+        "z": -19.290692
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -30.576464,
+        "y": 0,
+        "z": -19.733743
+      },
+      "max": {
+        "x": -30.066258,
+        "y": 2.59,
+        "z": -19.498488
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -30.007204,
+        "y": 0,
+        "z": -19.941539
+      },
+      "max": {
+        "x": -29.496998,
+        "y": 2.59,
+        "z": -19.706284
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -29.437944,
+        "y": 0,
+        "z": -20.149335
+      },
+      "max": {
+        "x": -28.927738,
+        "y": 2.59,
+        "z": -19.91408
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.868684,
+        "y": 0,
+        "z": -20.357131
+      },
+      "max": {
+        "x": -28.358479,
+        "y": 2.59,
+        "z": -20.121876
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.299425,
+        "y": 0,
+        "z": -20.564927
+      },
+      "max": {
+        "x": -27.789219,
+        "y": 2.59,
+        "z": -20.329672
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.610781,
+        "y": 0,
+        "z": -16.470328
+      },
+      "max": {
+        "x": -32.100575,
+        "y": 2.59,
+        "z": -16.235073
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.041521,
+        "y": 0,
+        "z": -16.678124
+      },
+      "max": {
+        "x": -31.531316,
+        "y": 2.59,
+        "z": -16.442869
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -31.472262,
+        "y": 0,
+        "z": -16.88592
+      },
+      "max": {
+        "x": -30.962056,
+        "y": 2.59,
+        "z": -16.650665
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -30.903002,
+        "y": 0,
+        "z": -17.093716
+      },
+      "max": {
+        "x": -30.392796,
+        "y": 2.59,
+        "z": -16.858461
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -30.333742,
+        "y": 0,
+        "z": -17.301512
+      },
+      "max": {
+        "x": -29.823536,
+        "y": 2.59,
+        "z": -17.066257
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -29.764482,
+        "y": 0,
+        "z": -17.509308
+      },
+      "max": {
+        "x": -29.254276,
+        "y": 2.59,
+        "z": -17.274053
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -29.195222,
+        "y": 0,
+        "z": -17.717104
+      },
+      "max": {
+        "x": -28.685016,
+        "y": 2.59,
+        "z": -17.481849
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.625962,
+        "y": 0,
+        "z": -17.9249
+      },
+      "max": {
+        "x": -28.115756,
+        "y": 2.59,
+        "z": -17.689645
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.056702,
+        "y": 0,
+        "z": -18.132696
+      },
+      "max": {
+        "x": -27.546497,
+        "y": 2.59,
+        "z": -17.897442
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.487443,
+        "y": 0,
+        "z": -18.340492
+      },
+      "max": {
+        "x": -26.977237,
+        "y": 2.59,
+        "z": -18.105238
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.453837,
+        "y": 0,
+        "z": -18.512406
+      },
+      "max": {
+        "x": -33.325392,
+        "y": 2.59,
+        "z": -18.294807
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.370238,
+        "y": 0,
+        "z": -18.283387
+      },
+      "max": {
+        "x": -33.241794,
+        "y": 2.59,
+        "z": -18.065788
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.28664,
+        "y": 0,
+        "z": -18.054368
+      },
+      "max": {
+        "x": -33.158195,
+        "y": 2.59,
+        "z": -17.836769
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.203041,
+        "y": 0,
+        "z": -17.825349
+      },
+      "max": {
+        "x": -33.074597,
+        "y": 2.59,
+        "z": -17.60775
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.119443,
+        "y": 0,
+        "z": -17.59633
+      },
+      "max": {
+        "x": -32.990998,
+        "y": 2.59,
+        "z": -17.378731
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.035844,
+        "y": 0,
+        "z": -17.367311
+      },
+      "max": {
+        "x": -32.9074,
+        "y": 2.59,
+        "z": -17.149712
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.952246,
+        "y": 0,
+        "z": -17.138292
+      },
+      "max": {
+        "x": -32.823801,
+        "y": 2.59,
+        "z": -16.920693
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.868648,
+        "y": 0,
+        "z": -16.909273
+      },
+      "max": {
+        "x": -32.740203,
+        "y": 2.59,
+        "z": -16.691674
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.785049,
+        "y": 0,
+        "z": -16.680254
+      },
+      "max": {
+        "x": -32.656604,
+        "y": 2.59,
+        "z": -16.462655
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.701451,
+        "y": 0,
+        "z": -16.451235
+      },
+      "max": {
+        "x": -32.573006,
+        "y": 2.59,
+        "z": -16.233636
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -37.300092,
+        "y": 0,
+        "z": 23.455282
+      },
+      "max": {
+        "x": -25.099908,
+        "y": 2.59,
+        "z": 25.944718
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -37.262644,
+        "y": 2.59,
+        "z": 23.398952
+      },
+      "max": {
+        "x": -25.049585,
+        "y": 5.18,
+        "z": 25.954992
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -23.8,
+        "y": 0,
+        "z": 0.1
+      },
+      "max": {
+        "x": -23,
+        "y": 0.32,
+        "z": 0.9
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -23.57,
+        "y": 0.32,
+        "z": 0.33
+      },
+      "max": {
+        "x": -23.23,
+        "y": 14,
+        "z": 0.67
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -23.8,
+        "y": 0,
+        "z": 21
+      },
+      "max": {
+        "x": -23,
+        "y": 0.32,
+        "z": 21.8
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -23.57,
+        "y": 0.32,
+        "z": 21.23
+      },
+      "max": {
+        "x": -23.23,
+        "y": 14,
+        "z": 21.57
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.6,
+        "y": 0,
+        "z": -9.1
+      },
+      "max": {
+        "x": 17.4,
+        "y": 0.32,
+        "z": -8.3
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.83,
+        "y": 0.32,
+        "z": -8.87
+      },
+      "max": {
+        "x": 17.17,
+        "y": 14,
+        "z": -8.53
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.6,
+        "y": 0,
+        "z": 18.2
+      },
+      "max": {
+        "x": 17.4,
+        "y": 0.32,
+        "z": 19
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.83,
+        "y": 0.32,
+        "z": 18.43
+      },
+      "max": {
+        "x": 17.17,
+        "y": 14,
+        "z": 18.77
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -21,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -20.2,
+        "y": 0.32,
+        "z": -11.2
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -20.77,
+        "y": 0.32,
+        "z": -11.77
+      },
+      "max": {
+        "x": -20.43,
+        "y": 14,
+        "z": -11.43
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -19.9,
+        "y": 0,
+        "z": 3.55
+      },
+      "max": {
+        "x": -19.3,
+        "y": 0.9,
+        "z": 4.15
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -19.263537,
+        "y": 0,
+        "z": 3.586463
+      },
+      "max": {
+        "x": -18.536463,
+        "y": 0.9,
+        "z": 4.313537
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.038038,
+        "y": 0,
+        "z": 3.45365
+      },
+      "max": {
+        "x": -16.761962,
+        "y": 1.152,
+        "z": 4.54635
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -14.919515,
+        "y": 0,
+        "z": 7.526406
+      },
+      "max": {
+        "x": -13.680485,
+        "y": 1.9,
+        "z": 8.573594
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -13.57424,
+        "y": 0,
+        "z": 7.420637
+      },
+      "max": {
+        "x": -12.32576,
+        "y": 1.16,
+        "z": 8.479363
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.293756,
+        "y": 0,
+        "z": 3.642861
+      },
+      "max": {
+        "x": -9.111773,
+        "y": 1.24,
+        "z": 4.86394
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.181232,
+        "y": 0,
+        "z": 3.891643
+      },
+      "max": {
+        "x": -7.99925,
+        "y": 1.24,
+        "z": 5.112722
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.093063,
+        "y": 1.24,
+        "z": 3.801722
+      },
+      "max": {
+        "x": -9.73264,
+        "y": 1.6,
+        "z": 4.201241
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.180355,
+        "y": 1.24,
+        "z": 4.192081
+      },
+      "max": {
+        "x": -9.819932,
+        "y": 1.6,
+        "z": 4.5916
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.442827,
+        "y": 1.24,
+        "z": 4.092887
+      },
+      "max": {
+        "x": -9.246716,
+        "y": 1.66,
+        "z": 4.328094
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.495202,
+        "y": 1.24,
+        "z": 4.327103
+      },
+      "max": {
+        "x": -9.299091,
+        "y": 1.66,
+        "z": 4.56231
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.003639,
+        "y": 0,
+        "z": 4.23482
+      },
+      "max": {
+        "x": -7.76645,
+        "y": 2.265,
+        "z": 4.511105
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.064743,
+        "y": 0,
+        "z": 4.508071
+      },
+      "max": {
+        "x": -7.827554,
+        "y": 2.265,
+        "z": 4.784356
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.125848,
+        "y": 0,
+        "z": 4.781323
+      },
+      "max": {
+        "x": -7.888658,
+        "y": 2.265,
+        "z": 5.057608
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.83001,
+        "y": 0.45,
+        "z": 4.159225
+      },
+      "max": {
+        "x": -7.713134,
+        "y": 1.87,
+        "z": 4.396646
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.887841,
+        "y": 0.45,
+        "z": 4.417837
+      },
+      "max": {
+        "x": -7.770964,
+        "y": 1.87,
+        "z": 4.655259
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.945672,
+        "y": 0.45,
+        "z": 4.67645
+      },
+      "max": {
+        "x": -7.828795,
+        "y": 1.87,
+        "z": 4.913872
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.003502,
+        "y": 0.45,
+        "z": 4.935063
+      },
+      "max": {
+        "x": -7.886626,
+        "y": 1.87,
+        "z": 5.172484
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.819734,
+        "y": 0.45,
+        "z": 4.411372
+      },
+      "max": {
+        "x": -6.940522,
+        "y": 0.55,
+        "z": 5.134202
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.597715,
+        "y": 2,
+        "z": 3.87824
+      },
+      "max": {
+        "x": -8.285413,
+        "y": 2.1,
+        "z": 4.968999
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.7054,
+        "y": 1,
+        "z": 4.68317
+      },
+      "max": {
+        "x": -9.596189,
+        "y": 2.045,
+        "z": 4.779349
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.455152,
+        "y": 1.08,
+        "z": 4.92631
+      },
+      "max": {
+        "x": -8.212543,
+        "y": 2.045,
+        "z": 5.084211
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.506811,
+        "y": 1,
+        "z": 3.795103
+      },
+      "max": {
+        "x": -9.3976,
+        "y": 2.045,
+        "z": 3.891282
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.265292,
+        "y": 1.08,
+        "z": 4.077279
+      },
+      "max": {
+        "x": -8.022684,
+        "y": 2.045,
+        "z": 4.23518
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.834226,
+        "y": 0.435,
+        "z": 4.189886
+      },
+      "max": {
+        "x": -6.594226,
+        "y": 1.685,
+        "z": 5.429886
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.378401,
+        "y": 0,
+        "z": 5.156624
+      },
+      "max": {
+        "x": -3.80434,
+        "y": 0.33,
+        "z": 5.730685
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -3.782716,
+        "y": 0,
+        "z": 5.084797
+      },
+      "max": {
+        "x": -3.208655,
+        "y": 0.33,
+        "z": 5.658858
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -3.18703,
+        "y": 0,
+        "z": 5.01297
+      },
+      "max": {
+        "x": -2.61297,
+        "y": 0.33,
+        "z": 5.58703
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.591345,
+        "y": 0,
+        "z": 4.941142
+      },
+      "max": {
+        "x": -2.017284,
+        "y": 0.33,
+        "z": 5.515203
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1.99566,
+        "y": 0,
+        "z": 4.869315
+      },
+      "max": {
+        "x": -1.421599,
+        "y": 0.33,
+        "z": 5.443376
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.381748,
+        "y": 0.33,
+        "z": 5.335173
+      },
+      "max": {
+        "x": -4.098836,
+        "y": 0.81,
+        "z": 5.58805
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.083905,
+        "y": 0.33,
+        "z": 5.299259
+      },
+      "max": {
+        "x": -3.800993,
+        "y": 0.81,
+        "z": 5.552137
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -3.786063,
+        "y": 0.33,
+        "z": 5.263345
+      },
+      "max": {
+        "x": -3.50315,
+        "y": 0.81,
+        "z": 5.516223
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -3.48822,
+        "y": 0.33,
+        "z": 5.227432
+      },
+      "max": {
+        "x": -3.205308,
+        "y": 0.81,
+        "z": 5.480309
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -3.190377,
+        "y": 0.33,
+        "z": 5.191518
+      },
+      "max": {
+        "x": -2.907465,
+        "y": 0.81,
+        "z": 5.444396
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.892535,
+        "y": 0.33,
+        "z": 5.155604
+      },
+      "max": {
+        "x": -2.609623,
+        "y": 0.81,
+        "z": 5.408482
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.594692,
+        "y": 0.33,
+        "z": 5.119691
+      },
+      "max": {
+        "x": -2.31178,
+        "y": 0.81,
+        "z": 5.372568
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.29685,
+        "y": 0.33,
+        "z": 5.083777
+      },
+      "max": {
+        "x": -2.013937,
+        "y": 0.81,
+        "z": 5.336655
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1.999007,
+        "y": 0.33,
+        "z": 5.047863
+      },
+      "max": {
+        "x": -1.716095,
+        "y": 0.81,
+        "z": 5.300741
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1.701164,
+        "y": 0.33,
+        "z": 5.01195
+      },
+      "max": {
+        "x": -1.418252,
+        "y": 0.81,
+        "z": 5.264827
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.077544,
+        "y": 0,
+        "z": 4.551749
+      },
+      "max": {
+        "x": 7.122456,
+        "y": 0.33,
+        "z": 5.448251
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.094515,
+        "y": 0.33,
+        "z": 4.720899
+      },
+      "max": {
+        "x": 7.105485,
+        "y": 0.81,
+        "z": 5.279101
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.66032,
+        "y": 0,
+        "z": 9.655765
+      },
+      "max": {
+        "x": -1.90979,
+        "y": 0.9,
+        "z": 10.383469
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.075265,
+        "y": 0,
+        "z": 9.336148
+      },
+      "max": {
+        "x": -1.324735,
+        "y": 0.9,
+        "z": 10.063852
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1.49021,
+        "y": 0,
+        "z": 9.016531
+      },
+      "max": {
+        "x": -0.73968,
+        "y": 0.9,
+        "z": 9.744235
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 5.253081,
+        "y": 0,
+        "z": 8.342598
+      },
+      "max": {
+        "x": 6.546919,
+        "y": 1.16,
+        "z": 9.457402
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 5.32576,
+        "y": 0,
+        "z": 9.520637
+      },
+      "max": {
+        "x": 6.57424,
+        "y": 1.16,
+        "z": 10.579363
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.546919,
+        "y": 0,
+        "z": 9.942598
+      },
+      "max": {
+        "x": -3.253081,
+        "y": 1.9,
+        "z": 11.057402
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.340457,
+        "y": 0,
+        "z": 8.876744
+      },
+      "max": {
+        "x": -3.259543,
+        "y": 1,
+        "z": 9.823256
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -5.009879,
+        "y": 0,
+        "z": 11.288101
+      },
+      "max": {
+        "x": -3.790121,
+        "y": 1.152,
+        "z": 12.311899
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 3.52084,
+        "y": 0,
+        "z": 10.18481
+      },
+      "max": {
+        "x": 4.258191,
+        "y": 1.3,
+        "z": 11.007278
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.141809,
+        "y": 0,
+        "z": 9.992722
+      },
+      "max": {
+        "x": 4.87916,
+        "y": 1.3,
+        "z": 10.81519
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.672967,
+        "y": 0,
+        "z": 9.252573
+      },
+      "max": {
+        "x": 14.127033,
+        "y": 1.396241,
+        "z": 10.747427
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.091676,
+        "y": 0,
+        "z": 3.605142
+      },
+      "max": {
+        "x": 13.108324,
+        "y": 0.33,
+        "z": 4.294858
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.096776,
+        "y": 0.33,
+        "z": 3.775065
+      },
+      "max": {
+        "x": 13.103224,
+        "y": 0.81,
+        "z": 4.124935
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 14.553081,
+        "y": 0,
+        "z": 9.642598
+      },
+      "max": {
+        "x": 15.846919,
+        "y": 1.16,
+        "z": 10.757402
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.115556,
+        "y": 0,
+        "z": 8.878326
+      },
+      "max": {
+        "x": -8.984444,
+        "y": 0.75,
+        "z": 9.721674
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.5,
+        "y": 0,
+        "z": 12.35
+      },
+      "max": {
+        "x": 10.3,
+        "y": 0.75,
+        "z": 13.45
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.83,
+        "y": 0,
+        "z": 3.69
+      },
+      "max": {
+        "x": -4.77,
+        "y": 2.4,
+        "z": 3.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.78,
+        "y": 1.44,
+        "z": 3.42
+      },
+      "max": {
+        "x": -4.76,
+        "y": 2.33,
+        "z": 4.02
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.55,
+        "y": 0,
+        "z": 3.37
+      },
+      "max": {
+        "x": 1.25,
+        "y": 1.05,
+        "z": 3.87
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -14.733486,
+        "y": 0,
+        "z": -3.8591
+      },
+      "max": {
+        "x": -12.266514,
+        "y": 1.434947,
+        "z": -2.3409
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -21.191142,
+        "y": 0,
+        "z": -0.623942
+      },
+      "max": {
+        "x": -20.008858,
+        "y": 1.152,
+        "z": 0.423942
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": -0.2
+      },
+      "max": {
+        "x": -9.2,
+        "y": 1,
+        "z": 0.6
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.2,
+        "y": 0,
+        "z": 0.05
+      },
+      "max": {
+        "x": 4.8,
+        "y": 0.9,
+        "z": 0.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.861896,
+        "y": 0,
+        "z": -0.038104
+      },
+      "max": {
+        "x": 5.538104,
+        "y": 0.9,
+        "z": 0.638104
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.691676,
+        "y": 0,
+        "z": 0.055142
+      },
+      "max": {
+        "x": 13.708324,
+        "y": 0.33,
+        "z": 0.744858
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.696776,
+        "y": 0.33,
+        "z": 0.225065
+      },
+      "max": {
+        "x": 13.703224,
+        "y": 0.81,
+        "z": 0.574935
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.63376,
+        "y": 0,
+        "z": -3.809496
+      },
+      "max": {
+        "x": 11.76624,
+        "y": 1,
+        "z": -2.790504
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.489771,
+        "y": 0,
+        "z": -0.122571
+      },
+      "max": {
+        "x": -1.510229,
+        "y": 0.8,
+        "z": 0.722571
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -5.317502,
+        "y": 0,
+        "z": -3.832725
+      },
+      "max": {
+        "x": -3.082498,
+        "y": 1.25,
+        "z": -2.567275
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.422456,
+        "y": 0,
+        "z": -7.948251
+      },
+      "max": {
+        "x": 0.622456,
+        "y": 0.33,
+        "z": -7.051749
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.405485,
+        "y": 0.33,
+        "z": -7.779101
+      },
+      "max": {
+        "x": 0.605485,
+        "y": 0.81,
+        "z": -7.220899
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.724954,
+        "y": 0,
+        "z": -8.198335
+      },
+      "max": {
+        "x": -5.675046,
+        "y": 0.9,
+        "z": -7.401665
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -13.25,
+        "y": 0.05,
+        "z": -7.61
+      },
+      "max": {
+        "x": -11.35,
+        "y": 1.2,
+        "z": -6.5
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.553081,
+        "y": 0,
+        "z": -10.457402
+      },
+      "max": {
+        "x": 1.846919,
+        "y": 1.152,
+        "z": -9.342598
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.9,
+        "y": 0,
+        "z": -10.6
+      },
+      "max": {
+        "x": 2.5,
+        "y": 0.9,
+        "z": -10
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.860792,
+        "y": 0,
+        "z": -8.328103
+      },
+      "max": {
+        "x": -18.176251,
+        "y": 1.3,
+        "z": -7.542761
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.223749,
+        "y": 0,
+        "z": -8.457239
+      },
+      "max": {
+        "x": -17.539208,
+        "y": 1.3,
+        "z": -7.671897
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -19,
+        "y": 0,
+        "z": 13.8
+      },
+      "max": {
+        "x": -13,
+        "y": 0.9,
+        "z": 15
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -11.578902,
+        "y": 0,
+        "z": 17.714921
+      },
+      "max": {
+        "x": -10.321098,
+        "y": 1.9,
+        "z": 18.785079
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -3.3,
+        "y": 0,
+        "z": 18.05
+      },
+      "max": {
+        "x": -2.7,
+        "y": 0.9,
+        "z": 18.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 3.238991,
+        "y": 0.05,
+        "z": 13.971113
+      },
+      "max": {
+        "x": 5.160809,
+        "y": 1.2,
+        "z": 15.118889
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.55,
+        "y": 0,
+        "z": 17.9
+      },
+      "max": {
+        "x": 11.35,
+        "y": 1,
+        "z": 18.7
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.4,
+        "y": 0,
+        "z": 17.75
+      },
+      "max": {
+        "x": 12.6,
+        "y": 1.16,
+        "z": 18.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.946919,
+        "y": 0,
+        "z": 17.642598
+      },
+      "max": {
+        "x": -11.653081,
+        "y": 1.152,
+        "z": 18.757402
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -21.720457,
+        "y": 0,
+        "z": 17.31432
+      },
+      "max": {
+        "x": -19.279543,
+        "y": 1.44552,
+        "z": 18.78568
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.878401,
+        "y": 0,
+        "z": 15.356624
+      },
+      "max": {
+        "x": -0.30434,
+        "y": 0.33,
+        "z": 15.930685
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.282716,
+        "y": 0,
+        "z": 15.284797
+      },
+      "max": {
+        "x": 0.291345,
+        "y": 0.33,
+        "z": 15.858858
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.31297,
+        "y": 0,
+        "z": 15.21297
+      },
+      "max": {
+        "x": 0.88703,
+        "y": 0.33,
+        "z": 15.78703
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.908655,
+        "y": 0,
+        "z": 15.141142
+      },
+      "max": {
+        "x": 1.482716,
+        "y": 0.33,
+        "z": 15.715203
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.50434,
+        "y": 0,
+        "z": 15.069315
+      },
+      "max": {
+        "x": 2.078401,
+        "y": 0.33,
+        "z": 15.643376
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.881748,
+        "y": 0.33,
+        "z": 15.535173
+      },
+      "max": {
+        "x": -0.598836,
+        "y": 0.81,
+        "z": 15.78805
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.583905,
+        "y": 0.33,
+        "z": 15.499259
+      },
+      "max": {
+        "x": -0.300993,
+        "y": 0.81,
+        "z": 15.752137
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.286063,
+        "y": 0.33,
+        "z": 15.463345
+      },
+      "max": {
+        "x": -0.00315,
+        "y": 0.81,
+        "z": 15.716223
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.01178,
+        "y": 0.33,
+        "z": 15.427432
+      },
+      "max": {
+        "x": 0.294692,
+        "y": 0.81,
+        "z": 15.680309
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.309623,
+        "y": 0.33,
+        "z": 15.391518
+      },
+      "max": {
+        "x": 0.592535,
+        "y": 0.81,
+        "z": 15.644396
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.607465,
+        "y": 0.33,
+        "z": 15.355604
+      },
+      "max": {
+        "x": 0.890377,
+        "y": 0.81,
+        "z": 15.608482
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.905308,
+        "y": 0.33,
+        "z": 15.319691
+      },
+      "max": {
+        "x": 1.18822,
+        "y": 0.81,
+        "z": 15.572568
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.20315,
+        "y": 0.33,
+        "z": 15.283777
+      },
+      "max": {
+        "x": 1.486063,
+        "y": 0.81,
+        "z": 15.536655
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.500993,
+        "y": 0.33,
+        "z": 15.247863
+      },
+      "max": {
+        "x": 1.783905,
+        "y": 0.81,
+        "z": 15.500741
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.798836,
+        "y": 0.33,
+        "z": 15.21195
+      },
+      "max": {
+        "x": 2.081748,
+        "y": 0.81,
+        "z": 15.464827
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.4,
+        "y": 0,
+        "z": 26.5
+      },
+      "max": {
+        "x": -7.6,
+        "y": 1,
+        "z": 27.3
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 8.079973,
+        "y": 0,
+        "z": 26.436717
+      },
+      "max": {
+        "x": 9.320027,
+        "y": 1.152,
+        "z": 27.563283
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.540457,
+        "y": 0,
+        "z": 26.526744
+      },
+      "max": {
+        "x": -1.459543,
+        "y": 1,
+        "z": 27.473256
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.9,
+        "y": 0,
+        "z": 26.8
+      },
+      "max": {
+        "x": 11.5,
+        "y": 0.9,
+        "z": 27.4
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -21.530016,
+        "y": 0,
+        "z": 26.415705
+      },
+      "max": {
+        "x": -20.469984,
+        "y": 0.8,
+        "z": 27.384295
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 15.412814,
+        "y": 0,
+        "z": 26.44709
+      },
+      "max": {
+        "x": 16.587186,
+        "y": 0.75,
+        "z": 27.35291
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.516647,
+        "y": 0,
+        "z": -27.689717
+      },
+      "max": {
+        "x": -27.483353,
+        "y": 0.9,
+        "z": -26.310283
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.211399,
+        "y": 0,
+        "z": -26.059876
+      },
+      "max": {
+        "x": -27.188601,
+        "y": 0.9,
+        "z": -24.740124
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -17.56,
+        "y": 0.05,
+        "z": -14.95
+      },
+      "max": {
+        "x": -16.45,
+        "y": 1.2,
+        "z": -13.05
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.744059,
+        "y": 0,
+        "z": -12.150289
+      },
+      "max": {
+        "x": -27.402345,
+        "y": 1.392565,
+        "z": -10.695087
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.597655,
+        "y": 0,
+        "z": -12.504913
+      },
+      "max": {
+        "x": -26.255941,
+        "y": 1.392565,
+        "z": -11.049711
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -31.113353,
+        "y": 0,
+        "z": -11.811715
+      },
+      "max": {
+        "x": -29.862727,
+        "y": 1.443472,
+        "z": -10.426688
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -29.937273,
+        "y": 0,
+        "z": -11.573312
+      },
+      "max": {
+        "x": -28.686647,
+        "y": 1.443472,
+        "z": -10.188285
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -35.216079,
+        "y": 0,
+        "z": -22.647577
+      },
+      "max": {
+        "x": -34.335118,
+        "y": 1.3,
+        "z": -21.805467
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -34.864882,
+        "y": 0,
+        "z": -23.194533
+      },
+      "max": {
+        "x": -33.983921,
+        "y": 1.3,
+        "z": -22.352423
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -25.8,
+        "y": 0,
+        "z": -27.3
+      },
+      "max": {
+        "x": -25,
+        "y": 1,
+        "z": -26.5
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -35.391142,
+        "y": 0,
+        "z": -14.023942
+      },
+      "max": {
+        "x": -34.208858,
+        "y": 1.9,
+        "z": -12.976058
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.9,
+        "y": 0,
+        "z": -13.3
+      },
+      "max": {
+        "x": -33.3,
+        "y": 0.9,
+        "z": -12.7
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -37.2,
+        "y": 0,
+        "z": -27.1
+      },
+      "max": {
+        "x": -36,
+        "y": 1.25,
+        "z": -24.9
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -35.275771,
+        "y": 0,
+        "z": 13.786335
+      },
+      "max": {
+        "x": -34.211877,
+        "y": 1.21,
+        "z": 14.778047
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -34.188123,
+        "y": 0,
+        "z": 13.621953
+      },
+      "max": {
+        "x": -33.124229,
+        "y": 1.21,
+        "z": 14.613665
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -31.541922,
+        "y": 0,
+        "z": 12.558078
+      },
+      "max": {
+        "x": -31.258078,
+        "y": 2.2,
+        "z": 12.841922
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -37,
+        "y": 0,
+        "z": 16.8
+      },
+      "max": {
+        "x": -36.2,
+        "y": 1,
+        "z": 17.6
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.978152,
+        "y": 0,
+        "z": 17.821848
+      },
+      "max": {
+        "x": -36.021848,
+        "y": 1,
+        "z": 18.778152
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.96,
+        "y": 0.05,
+        "z": 20.05
+      },
+      "max": {
+        "x": -35.85,
+        "y": 1.2,
+        "z": 21.95
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.442717,
+        "y": 0,
+        "z": 16.003004
+      },
+      "max": {
+        "x": -27.157283,
+        "y": 1.152,
+        "z": 17.196996
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -29.192177,
+        "y": 0,
+        "z": 20.09734
+      },
+      "max": {
+        "x": -28.007823,
+        "y": 1,
+        "z": 21.10266
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.2,
+        "y": 0,
+        "z": 20.7
+      },
+      "max": {
+        "x": -26,
+        "y": 1.16,
+        "z": 21.7
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -22.96,
+        "y": 0,
+        "z": -3.68
+      },
+      "max": {
+        "x": -22.84,
+        "y": 3.2,
+        "z": -3.56
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -23.01,
+        "y": 0,
+        "z": 3.56
+      },
+      "max": {
+        "x": -22.89,
+        "y": 3.2,
+        "z": 3.68
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -25.06,
+        "y": 0,
+        "z": 13.94
+      },
+      "max": {
+        "x": -24.94,
+        "y": 3.2,
+        "z": 14.06
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.84,
+        "y": 0,
+        "z": 9.44
+      },
+      "max": {
+        "x": 16.96,
+        "y": 3.2,
+        "z": 9.56
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -38.05,
+        "y": 0,
+        "z": -30.05
+      },
+      "max": {
+        "x": 30.05,
+        "y": 2.4,
+        "z": -29.95
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -38.3,
+        "y": 0,
+        "z": -30.3
+      },
+      "max": {
+        "x": 30.3,
+        "y": 7,
+        "z": -29.7
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": -38.05,
+        "y": 0,
+        "z": 27.95
+      },
+      "max": {
+        "x": 30.05,
+        "y": 2.4,
+        "z": 28.05
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -38.3,
+        "y": 0,
+        "z": 27.7
+      },
+      "max": {
+        "x": 30.3,
+        "y": 7,
+        "z": 28.3
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": -38.05,
+        "y": 0,
+        "z": -30.05
+      },
+      "max": {
+        "x": -37.95,
+        "y": 2.4,
+        "z": 2.05
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -38.3,
+        "y": 0,
+        "z": -30.3
+      },
+      "max": {
+        "x": -37.7,
+        "y": 7,
+        "z": 2.3
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": -38.05,
+        "y": 0,
+        "z": 7.95
+      },
+      "max": {
+        "x": -37.95,
+        "y": 2.4,
+        "z": 28.05
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -38.3,
+        "y": 0,
+        "z": 7.7
+      },
+      "max": {
+        "x": -37.7,
+        "y": 7,
+        "z": 28.3
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": -38.13,
+        "y": 0,
+        "z": 1.77
+      },
+      "max": {
+        "x": -37.87,
+        "y": 3.4,
+        "z": 2.03
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -38.13,
+        "y": 0,
+        "z": 7.97
+      },
+      "max": {
+        "x": -37.87,
+        "y": 3.4,
+        "z": 8.23
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -38.4,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -38.1,
+        "y": 7,
+        "z": 8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": -36.5,
+        "y": 0,
+        "z": -0.75
+      },
+      "max": {
+        "x": -33.9,
+        "y": 2.54,
+        "z": 1.45
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.47,
+        "y": 0,
+        "z": 7.11
+      },
+      "max": {
+        "x": -36.13,
+        "y": 1.1,
+        "z": 7.51
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.38,
+        "y": 0,
+        "z": 2.53
+      },
+      "max": {
+        "x": -36.22,
+        "y": 1,
+        "z": 2.67
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.34,
+        "y": 0.85,
+        "z": 2.6
+      },
+      "max": {
+        "x": -36.26,
+        "y": 0.99,
+        "z": 7.31
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -37.085,
+        "y": 0,
+        "z": 1.665
+      },
+      "max": {
+        "x": -36.915,
+        "y": 1,
+        "z": 1.835
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -34.485,
+        "y": 0,
+        "z": 2.215
+      },
+      "max": {
+        "x": -34.315,
+        "y": 1,
+        "z": 2.385
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -37.085,
+        "y": 0,
+        "z": 8.215
+      },
+      "max": {
+        "x": -36.915,
+        "y": 1,
+        "z": 8.385
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -35.685,
+        "y": 0,
+        "z": 8.815
+      },
+      "max": {
+        "x": -35.515,
+        "y": 1,
+        "z": 8.985
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -34.485,
+        "y": 0,
+        "z": 9.815
+      },
+      "max": {
+        "x": -34.315,
+        "y": 1,
+        "z": 9.985
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.585,
+        "y": 0,
+        "z": -1.185
+      },
+      "max": {
+        "x": -33.415,
+        "y": 1,
+        "z": -1.015
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -35.118913,
+        "y": 0,
+        "z": 2.230823
+      },
+      "max": {
+        "x": -34.281087,
+        "y": 0.33,
+        "z": 5.269177
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -34.949456,
+        "y": 0.33,
+        "z": 2.244409
+      },
+      "max": {
+        "x": -34.450544,
+        "y": 0.81,
+        "z": 5.255591
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.689406,
+        "y": 0,
+        "z": 6.78471
+      },
+      "max": {
+        "x": -32.910594,
+        "y": 0.33,
+        "z": 9.81529
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.519712,
+        "y": 0.33,
+        "z": 6.794904
+      },
+      "max": {
+        "x": -33.080288,
+        "y": 0.81,
+        "z": 9.805096
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.108324,
+        "y": 0,
+        "z": 10.055142
+      },
+      "max": {
+        "x": -29.091676,
+        "y": 0.33,
+        "z": 10.744858
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -32.103224,
+        "y": 0.33,
+        "z": 10.225065
+      },
+      "max": {
+        "x": -29.096776,
+        "y": 0.81,
+        "z": 10.574935
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.813119,
+        "y": 0,
+        "z": 1.075406
+      },
+      "max": {
+        "x": -25.786881,
+        "y": 0.33,
+        "z": 1.824594
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28.804623,
+        "y": 0.33,
+        "z": 1.245194
+      },
+      "max": {
+        "x": -25.795377,
+        "y": 0.81,
+        "z": 1.654806
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.710797,
+        "y": 0,
+        "z": 1.090256
+      },
+      "max": {
+        "x": -30.689203,
+        "y": 0.33,
+        "z": 1.809744
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.703999,
+        "y": 0.33,
+        "z": 1.26012
+      },
+      "max": {
+        "x": -30.696001,
+        "y": 0.81,
+        "z": 1.63988
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.23,
+        "y": 0,
+        "z": 9.57
+      },
+      "max": {
+        "x": -33.17,
+        "y": 2.4,
+        "z": 9.63
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -33.18,
+        "y": 1.44,
+        "z": 9.3
+      },
+      "max": {
+        "x": -33.16,
+        "y": 2.33,
+        "z": 9.9
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -25.33,
+        "y": 0,
+        "z": 1.07
+      },
+      "max": {
+        "x": -25.27,
+        "y": 2.4,
+        "z": 1.13
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -25.28,
+        "y": 1.44,
+        "z": 0.8
+      },
+      "max": {
+        "x": -25.26,
+        "y": 2.33,
+        "z": 1.4
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.63,
+        "y": 0,
+        "z": -1.63
+      },
+      "max": {
+        "x": -36.57,
+        "y": 2.4,
+        "z": -1.57
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.58,
+        "y": 1.44,
+        "z": -1.9
+      },
+      "max": {
+        "x": -36.56,
+        "y": 2.33,
+        "z": -1.3
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -28,
+        "y": 0,
+        "z": -1.3
+      },
+      "max": {
+        "x": -27.2,
+        "y": 0.32,
+        "z": -0.5
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -27.77,
+        "y": 0.32,
+        "z": -1.07
+      },
+      "max": {
+        "x": -27.43,
+        "y": 14,
+        "z": -0.73
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.7,
+        "y": 0,
+        "z": 12
+      },
+      "max": {
+        "x": -35.9,
+        "y": 0.32,
+        "z": 12.8
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.47,
+        "y": 0.32,
+        "z": 12.23
+      },
+      "max": {
+        "x": -36.13,
+        "y": 14,
+        "z": 12.57
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -34.2,
+        "y": 0,
+        "z": 1.7
+      },
+      "max": {
+        "x": -33.6,
+        "y": 0.9,
+        "z": 2.3
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -36.991142,
+        "y": 0,
+        "z": 9.776058
+      },
+      "max": {
+        "x": -35.808858,
+        "y": 1.152,
+        "z": 10.823942
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16,
+        "y": -0.5,
+        "z": -28
+      },
+      "max": {
+        "x": 12,
+        "y": 0.03,
+        "z": -11
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16,
+        "y": 0,
+        "z": -11.25
+      },
+      "max": {
+        "x": -6,
+        "y": 7,
+        "z": -10.94
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -1,
+        "y": 0,
+        "z": -11.25
+      },
+      "max": {
+        "x": 12,
+        "y": 7,
+        "z": -10.94
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -6,
+        "y": 4.5,
+        "z": -11.6
+      },
+      "max": {
+        "x": -1,
+        "y": 7,
+        "z": -10.94
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16,
+        "y": 0,
+        "z": -28.06
+      },
+      "max": {
+        "x": 12,
+        "y": 7,
+        "z": -27.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.06,
+        "y": 0,
+        "z": -28
+      },
+      "max": {
+        "x": -15.75,
+        "y": 9.5,
+        "z": -11
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.75,
+        "y": 0,
+        "z": -28
+      },
+      "max": {
+        "x": 12.06,
+        "y": 9.5,
+        "z": -22
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.75,
+        "y": 0,
+        "z": -17
+      },
+      "max": {
+        "x": 12.06,
+        "y": 9.5,
+        "z": -15.55
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.75,
+        "y": 0,
+        "z": -13.35
+      },
+      "max": {
+        "x": 12.06,
+        "y": 9.5,
+        "z": -11
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.75,
+        "y": 0,
+        "z": -15.55
+      },
+      "max": {
+        "x": 12.06,
+        "y": 3.3,
+        "z": -13.35
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.75,
+        "y": 5.4,
+        "z": -15.55
+      },
+      "max": {
+        "x": 12.06,
+        "y": 9.5,
+        "z": -13.35
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.75,
+        "y": 4.5,
+        "z": -22
+      },
+      "max": {
+        "x": 12.06,
+        "y": 9.5,
+        "z": -17
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 6.95,
+        "z": -13.125
+      },
+      "max": {
+        "x": 12.3,
+        "y": 7.705,
+        "z": -10.66
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 7.575,
+        "z": -15.25
+      },
+      "max": {
+        "x": -10.58,
+        "y": 8.33,
+        "z": -13.125
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.15,
+        "y": 7.575,
+        "z": -15.25
+      },
+      "max": {
+        "x": -0.57,
+        "y": 8.33,
+        "z": -13.125
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.86,
+        "y": 7.575,
+        "z": -15.25
+      },
+      "max": {
+        "x": 12.3,
+        "y": 8.33,
+        "z": -13.125
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 8.2,
+        "z": -17.375
+      },
+      "max": {
+        "x": -9.15,
+        "y": 8.955,
+        "z": -15.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.72,
+        "y": 8.2,
+        "z": -17.375
+      },
+      "max": {
+        "x": 5.15,
+        "y": 8.955,
+        "z": -15.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 6.58,
+        "y": 8.2,
+        "z": -17.375
+      },
+      "max": {
+        "x": 12.3,
+        "y": 8.955,
+        "z": -15.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 8.825,
+        "z": -19.5
+      },
+      "max": {
+        "x": -4.86,
+        "y": 9.58,
+        "z": -17.375
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -3.43,
+        "y": 8.825,
+        "z": -19.5
+      },
+      "max": {
+        "x": 12.3,
+        "y": 9.58,
+        "z": -17.375
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 6.95,
+        "z": -28.34
+      },
+      "max": {
+        "x": 12.3,
+        "y": 7.705,
+        "z": -25.875
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 7.575,
+        "z": -25.875
+      },
+      "max": {
+        "x": 2.29,
+        "y": 8.33,
+        "z": -23.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 3.72,
+        "y": 7.575,
+        "z": -25.875
+      },
+      "max": {
+        "x": 12.3,
+        "y": 8.33,
+        "z": -23.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 8.2,
+        "z": -23.75
+      },
+      "max": {
+        "x": -6.29,
+        "y": 8.955,
+        "z": -21.625
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.86,
+        "y": 8.2,
+        "z": -23.75
+      },
+      "max": {
+        "x": 12.3,
+        "y": 8.955,
+        "z": -21.625
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -16.3,
+        "y": 8.825,
+        "z": -21.625
+      },
+      "max": {
+        "x": 8.01,
+        "y": 9.58,
+        "z": -19.5
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.44,
+        "y": 8.825,
+        "z": -21.625
+      },
+      "max": {
+        "x": 12.3,
+        "y": 9.58,
+        "z": -19.5
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.75,
+        "y": 0,
+        "z": -11.73
+      },
+      "max": {
+        "x": -15.51,
+        "y": 7,
+        "z": -11.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.75,
+        "y": 0,
+        "z": -27.75
+      },
+      "max": {
+        "x": -15.51,
+        "y": 7,
+        "z": -27.27
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -11.22,
+        "y": 0,
+        "z": -11.73
+      },
+      "max": {
+        "x": -10.98,
+        "y": 7,
+        "z": -11.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -11.22,
+        "y": 0,
+        "z": -27.75
+      },
+      "max": {
+        "x": -10.98,
+        "y": 7,
+        "z": -27.27
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -6.32,
+        "y": 0,
+        "z": -11.73
+      },
+      "max": {
+        "x": -6.08,
+        "y": 7,
+        "z": -11.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -6.32,
+        "y": 0,
+        "z": -27.75
+      },
+      "max": {
+        "x": -6.08,
+        "y": 7,
+        "z": -27.27
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.92,
+        "y": 0,
+        "z": -11.73
+      },
+      "max": {
+        "x": -0.68,
+        "y": 7,
+        "z": -11.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.92,
+        "y": 0,
+        "z": -27.75
+      },
+      "max": {
+        "x": -0.68,
+        "y": 7,
+        "z": -27.27
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 5.48,
+        "y": 0,
+        "z": -11.73
+      },
+      "max": {
+        "x": 5.72,
+        "y": 7,
+        "z": -11.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 5.48,
+        "y": 0,
+        "z": -27.75
+      },
+      "max": {
+        "x": 5.72,
+        "y": 7,
+        "z": -27.27
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.51,
+        "y": 0,
+        "z": -11.73
+      },
+      "max": {
+        "x": 11.75,
+        "y": 7,
+        "z": -11.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.51,
+        "y": 0,
+        "z": -27.75
+      },
+      "max": {
+        "x": 11.75,
+        "y": 7,
+        "z": -27.27
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.79,
+        "y": 0,
+        "z": -22.4
+      },
+      "max": {
+        "x": -15.47,
+        "y": 8.126471,
+        "z": -22.2
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.79,
+        "y": 0,
+        "z": -16.8
+      },
+      "max": {
+        "x": -15.47,
+        "y": 8.126471,
+        "z": -16.6
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.47,
+        "y": 0,
+        "z": -22.4
+      },
+      "max": {
+        "x": 11.79,
+        "y": 8.126471,
+        "z": -22.2
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 11.47,
+        "y": 0,
+        "z": -16.8
+      },
+      "max": {
+        "x": 11.79,
+        "y": 8.126471,
+        "z": -16.6
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -6.535,
+        "y": 0,
+        "z": -10.535
+      },
+      "max": {
+        "x": -6.365,
+        "y": 1,
+        "z": -10.365
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.635,
+        "y": 0,
+        "z": -10.535
+      },
+      "max": {
+        "x": -0.465,
+        "y": 1,
+        "z": -10.365
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 12.07,
+        "y": 0,
+        "z": -27.35
+      },
+      "max": {
+        "x": 12.24,
+        "y": 4.8,
+        "z": -22.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 12.515,
+        "y": 0,
+        "z": -22.485
+      },
+      "max": {
+        "x": 12.685,
+        "y": 1,
+        "z": -22.315
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.41,
+        "y": 0,
+        "z": -23.91
+      },
+      "max": {
+        "x": -10.25,
+        "y": 2.6,
+        "z": -23.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.41,
+        "y": 0,
+        "z": -27.51
+      },
+      "max": {
+        "x": -10.25,
+        "y": 2.6,
+        "z": -27.35
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -13.08,
+        "y": 0,
+        "z": -23.91
+      },
+      "max": {
+        "x": -12.92,
+        "y": 2.6,
+        "z": -23.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.73,
+        "y": 2.48,
+        "z": -27.73
+      },
+      "max": {
+        "x": -10.25,
+        "y": 2.6,
+        "z": -23.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.23,
+        "y": 2.805,
+        "z": -26.8
+      },
+      "max": {
+        "x": -9.93,
+        "y": 3.355,
+        "z": -26
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": true,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.021887,
+        "y": 5.08,
+        "z": -26.77059
+      },
+      "max": {
+        "x": -13.978113,
+        "y": 5.88,
+        "z": -25.82941
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.62,
+        "y": 2.6,
+        "z": -27.16
+      },
+      "max": {
+        "x": -15.12,
+        "y": 3.92,
+        "z": -26.51
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.62,
+        "y": 2.6,
+        "z": -26.36
+      },
+      "max": {
+        "x": -15.16,
+        "y": 4.43,
+        "z": -25.14
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.62,
+        "y": 2.6,
+        "z": -24.81
+      },
+      "max": {
+        "x": -15.11,
+        "y": 3.44,
+        "z": -23.88
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.7,
+        "y": 2.6,
+        "z": -27.24
+      },
+      "max": {
+        "x": -15.62,
+        "y": 5.08,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.7,
+        "y": 2.6,
+        "z": -27.24
+      },
+      "max": {
+        "x": -10.3,
+        "y": 5.08,
+        "z": -27.16
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.38,
+        "y": 2.6,
+        "z": -27.24
+      },
+      "max": {
+        "x": -10.3,
+        "y": 5.08,
+        "z": -26.95
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.38,
+        "y": 2.6,
+        "z": -24.1
+      },
+      "max": {
+        "x": -10.3,
+        "y": 5.08,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.38,
+        "y": 2.6,
+        "z": -26.95
+      },
+      "max": {
+        "x": -10.3,
+        "y": 3.55,
+        "z": -24.1
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.38,
+        "y": 4.5,
+        "z": -26.95
+      },
+      "max": {
+        "x": -10.3,
+        "y": 5.08,
+        "z": -24.1
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.7,
+        "y": 2.6,
+        "z": -23.88
+      },
+      "max": {
+        "x": -15.25,
+        "y": 5.08,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.25,
+        "y": 2.6,
+        "z": -23.88
+      },
+      "max": {
+        "x": -12.45,
+        "y": 3.55,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.25,
+        "y": 4.5,
+        "z": -23.88
+      },
+      "max": {
+        "x": -12.45,
+        "y": 5.08,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.45,
+        "y": 2.6,
+        "z": -23.88
+      },
+      "max": {
+        "x": -11.6,
+        "y": 5.08,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -11.6,
+        "y": 4.7,
+        "z": -23.88
+      },
+      "max": {
+        "x": -10.58,
+        "y": 5.08,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.58,
+        "y": 2.6,
+        "z": -23.88
+      },
+      "max": {
+        "x": -10.3,
+        "y": 5.08,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.73,
+        "y": 4.95,
+        "z": -27.26
+      },
+      "max": {
+        "x": -10.25,
+        "y": 5.08,
+        "z": -23.75
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.36,
+        "y": 3.55,
+        "z": -26.95
+      },
+      "max": {
+        "x": -10.32,
+        "y": 4.5,
+        "z": -24.1
+      },
+      "surface": "glass",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": -15.25,
+        "y": 3.55,
+        "z": -23.86
+      },
+      "max": {
+        "x": -12.45,
+        "y": 4.5,
+        "z": -23.82
+      },
+      "surface": "glass",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": -11.78,
+        "y": 2.6,
+        "z": -24.88
+      },
+      "max": {
+        "x": -11.59,
+        "y": 4.685,
+        "z": -23.88
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -14.95,
+        "y": 2.6,
+        "z": -27.16
+      },
+      "max": {
+        "x": -12.25,
+        "y": 3.34,
+        "z": -26.4
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -13.76,
+        "y": 2.6,
+        "z": -26.17
+      },
+      "max": {
+        "x": -13.28,
+        "y": 3.1,
+        "z": -25.69
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.75,
+        "y": 2.52,
+        "z": -23.75
+      },
+      "max": {
+        "x": -12.75,
+        "y": 2.6,
+        "z": -22.55
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.75,
+        "y": 2.6,
+        "z": -22.62
+      },
+      "max": {
+        "x": -12.75,
+        "y": 3.65,
+        "z": -22.55
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.75,
+        "y": 2.52,
+        "z": -23.75
+      },
+      "max": {
+        "x": -9.75,
+        "y": 2.6,
+        "z": -22.55
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.75,
+        "y": 2.6,
+        "z": -22.62
+      },
+      "max": {
+        "x": -9.75,
+        "y": 3.65,
+        "z": -22.55
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -6.95,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -6.75,
+        "y": 0.2,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.15,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -6.95,
+        "y": 0.4,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.35,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -7.15,
+        "y": 0.6,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.55,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -7.35,
+        "y": 0.8,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.75,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -7.55,
+        "y": 1,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -7.95,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -7.75,
+        "y": 1.2,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.15,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -7.95,
+        "y": 1.4,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.35,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -8.15,
+        "y": 1.6,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.55,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -8.35,
+        "y": 1.8,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.75,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -8.55,
+        "y": 2,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.95,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -8.75,
+        "y": 2.2,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.15,
+        "y": 0,
+        "z": -23.65
+      },
+      "max": {
+        "x": -8.95,
+        "y": 2.4,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.75,
+        "y": 2.4,
+        "z": -23.65
+      },
+      "max": {
+        "x": -9.15,
+        "y": 2.6,
+        "z": -22.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.73,
+        "y": 0,
+        "z": -22.74
+      },
+      "max": {
+        "x": -9.65,
+        "y": 2.4,
+        "z": -22.66
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.73,
+        "y": 0,
+        "z": -23.64
+      },
+      "max": {
+        "x": -9.65,
+        "y": 2.4,
+        "z": -23.56
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.75,
+        "y": 2.6,
+        "z": -22.695
+      },
+      "max": {
+        "x": -9.15,
+        "y": 3.62,
+        "z": -22.635
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.75,
+        "y": 2.6,
+        "z": -23.665
+      },
+      "max": {
+        "x": -9.15,
+        "y": 3.62,
+        "z": -23.605
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.3,
+        "y": 2.6,
+        "z": -23.765
+      },
+      "max": {
+        "x": -9.75,
+        "y": 3.65,
+        "z": -23.695
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.6,
+        "y": 0,
+        "z": -12.05
+      },
+      "max": {
+        "x": 5,
+        "y": 0.94,
+        "z": -11.3
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -13,
+        "y": 0,
+        "z": -17.95
+      },
+      "max": {
+        "x": -10.2,
+        "y": 1.9,
+        "z": -17.25
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -9.75,
+        "y": 0.03,
+        "z": -27.68
+      },
+      "max": {
+        "x": -7.05,
+        "y": 4.23,
+        "z": -26.58
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -6.95,
+        "y": 0.03,
+        "z": -27.68
+      },
+      "max": {
+        "x": -4.25,
+        "y": 4.23,
+        "z": -26.58
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -4.15,
+        "y": 0.03,
+        "z": -27.68
+      },
+      "max": {
+        "x": -1.45,
+        "y": 4.23,
+        "z": -26.58
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.45,
+        "y": 0.03,
+        "z": -27.68
+      },
+      "max": {
+        "x": 4.15,
+        "y": 4.23,
+        "z": -26.58
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.25,
+        "y": 0.03,
+        "z": -27.68
+      },
+      "max": {
+        "x": 6.95,
+        "y": 4.23,
+        "z": -26.58
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.05,
+        "y": 0.03,
+        "z": -27.68
+      },
+      "max": {
+        "x": 9.75,
+        "y": 4.23,
+        "z": -26.58
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.45,
+        "y": 0.03,
+        "z": -24
+      },
+      "max": {
+        "x": 4.15,
+        "y": 4.23,
+        "z": -22.9
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.25,
+        "y": 0.03,
+        "z": -24
+      },
+      "max": {
+        "x": 6.95,
+        "y": 4.23,
+        "z": -22.9
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.05,
+        "y": 0.03,
+        "z": -24
+      },
+      "max": {
+        "x": 9.75,
+        "y": 4.23,
+        "z": -22.9
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -0.646919,
+        "y": 0.03,
+        "z": -27.457402
+      },
+      "max": {
+        "x": 0.646919,
+        "y": 1.182,
+        "z": -26.342598
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 2.336234,
+        "y": 0.03,
+        "z": -16.388679
+      },
+      "max": {
+        "x": 3.463766,
+        "y": 1.93,
+        "z": -15.411321
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 3.595959,
+        "y": 0.03,
+        "z": -16.791991
+      },
+      "max": {
+        "x": 4.704041,
+        "y": 1.03,
+        "z": -15.808009
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.510954,
+        "y": 0.03,
+        "z": -17.864056
+      },
+      "max": {
+        "x": 2.489046,
+        "y": 1.182,
+        "z": -16.735944
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 6.253081,
+        "y": 0.03,
+        "z": -20.157402
+      },
+      "max": {
+        "x": 7.546919,
+        "y": 1.19,
+        "z": -19.042598
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.6,
+        "y": 0.03,
+        "z": -18.8
+      },
+      "max": {
+        "x": 8.2,
+        "y": 0.93,
+        "z": -18.2
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.238038,
+        "y": 0.03,
+        "z": -16.94635
+      },
+      "max": {
+        "x": -6.961962,
+        "y": 1.19,
+        "z": -15.85365
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.9,
+        "y": 0.03,
+        "z": -15.6
+      },
+      "max": {
+        "x": -8.3,
+        "y": 0.93,
+        "z": -15
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -8.262474,
+        "y": 0.03,
+        "z": -15.362474
+      },
+      "max": {
+        "x": -7.537526,
+        "y": 0.93,
+        "z": -14.637526
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.850396,
+        "y": 0.03,
+        "z": -17.413744
+      },
+      "max": {
+        "x": 10.549604,
+        "y": 0.93,
+        "z": -15.386256
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 8.694432,
+        "y": 0.03,
+        "z": -14.132753
+      },
+      "max": {
+        "x": 9.994492,
+        "y": 1.27,
+        "z": -12.804693
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.640727,
+        "y": 0.03,
+        "z": -14.567847
+      },
+      "max": {
+        "x": 8.940787,
+        "y": 1.27,
+        "z": -13.239786
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.307669,
+        "y": 1.27,
+        "z": -13.39941
+      },
+      "max": {
+        "x": 9.709227,
+        "y": 1.63,
+        "z": -12.969852
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.460334,
+        "y": 1.27,
+        "z": -13.769131
+      },
+      "max": {
+        "x": 9.861891,
+        "y": 1.63,
+        "z": -13.339573
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 8.873471,
+        "y": 1.27,
+        "z": -13.6125
+      },
+      "max": {
+        "x": 9.095328,
+        "y": 1.69,
+        "z": -13.362643
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 8.96507,
+        "y": 1.27,
+        "z": -13.834333
+      },
+      "max": {
+        "x": 9.186927,
+        "y": 1.69,
+        "z": -13.584476
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.440461,
+        "y": 0.03,
+        "z": -14.044299
+      },
+      "max": {
+        "x": 7.707243,
+        "y": 2.07,
+        "z": -13.749517
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.547326,
+        "y": 0.03,
+        "z": -14.303104
+      },
+      "max": {
+        "x": 7.814108,
+        "y": 2.07,
+        "z": -14.008322
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.654191,
+        "y": 0.03,
+        "z": -14.561909
+      },
+      "max": {
+        "x": 7.920973,
+        "y": 2.07,
+        "z": -14.267126
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.370534,
+        "y": 0.03,
+        "z": -13.941106
+      },
+      "max": {
+        "x": 7.521106,
+        "y": 1.45,
+        "z": -13.704199
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.471674,
+        "y": 0.03,
+        "z": -14.186046
+      },
+      "max": {
+        "x": 7.622246,
+        "y": 1.45,
+        "z": -13.949139
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.572814,
+        "y": 0.03,
+        "z": -14.430986
+      },
+      "max": {
+        "x": 7.723387,
+        "y": 1.45,
+        "z": -14.194079
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.673954,
+        "y": 0.03,
+        "z": -14.675926
+      },
+      "max": {
+        "x": 7.824527,
+        "y": 1.45,
+        "z": -14.439019
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.926809,
+        "y": 2.03,
+        "z": -14.383782
+      },
+      "max": {
+        "x": 9.320203,
+        "y": 2.13,
+        "z": -13.149056
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.316361,
+        "y": 1.03,
+        "z": -14.002261
+      },
+      "max": {
+        "x": 9.43334,
+        "y": 2.075,
+        "z": -13.894615
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.999359,
+        "y": 1.11,
+        "z": -14.537624
+      },
+      "max": {
+        "x": 8.248703,
+        "y": 2.075,
+        "z": -14.348948
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 8.969049,
+        "y": 1.03,
+        "z": -13.161146
+      },
+      "max": {
+        "x": 9.086029,
+        "y": 2.075,
+        "z": -13.0535
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.667314,
+        "y": 1.11,
+        "z": -13.733481
+      },
+      "max": {
+        "x": 7.916657,
+        "y": 2.075,
+        "z": -13.544805
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 5.55407,
+        "y": 0.03,
+        "z": -12.407878
+      },
+      "max": {
+        "x": 6.000983,
+        "y": 0.98,
+        "z": -11.924874
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 5.999017,
+        "y": 0.03,
+        "z": -12.475126
+      },
+      "max": {
+        "x": 6.44593,
+        "y": 0.98,
+        "z": -11.992122
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -14.380041,
+        "y": 0.03,
+        "z": -13.787615
+      },
+      "max": {
+        "x": -13.211329,
+        "y": 1.467134,
+        "z": -12.46873
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -13.188671,
+        "y": 0.03,
+        "z": -13.93127
+      },
+      "max": {
+        "x": -12.019959,
+        "y": 1.467134,
+        "z": -12.612385
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.4,
+        "y": 0.03,
+        "z": -16
+      },
+      "max": {
+        "x": -14.6,
+        "y": 1.03,
+        "z": -15.2
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.350805,
+        "y": 0.03,
+        "z": -17.050805
+      },
+      "max": {
+        "x": -14.449195,
+        "y": 1.03,
+        "z": -16.149195
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.089771,
+        "y": 0.03,
+        "z": -27.022571
+      },
+      "max": {
+        "x": -14.110229,
+        "y": 0.83,
+        "z": -26.177429
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.992177,
+        "y": 0.03,
+        "z": -27.40266
+      },
+      "max": {
+        "x": -11.807823,
+        "y": 1.03,
+        "z": -26.39734
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -11.2,
+        "y": 0.03,
+        "z": -27.3
+      },
+      "max": {
+        "x": -10.6,
+        "y": 0.93,
+        "z": -26.7
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -15.26624,
+        "y": 0.03,
+        "z": -25.109496
+      },
+      "max": {
+        "x": -14.13376,
+        "y": 1.03,
+        "z": -24.090504
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.087546,
+        "y": 0.17,
+        "z": -14.055709
+      },
+      "max": {
+        "x": 11.112454,
+        "y": 0.97,
+        "z": -13.144291
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 29.35,
+        "y": -4.2,
+        "z": -31
+      },
+      "max": {
+        "x": 30,
+        "y": 0.028,
+        "z": 29
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": true,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 30.03,
+        "y": -5,
+        "z": -32
+      },
+      "max": {
+        "x": 30.7,
+        "y": 8,
+        "z": 30
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": true
+    },
+    {
+      "min": {
+        "x": 28.9,
+        "y": 0,
+        "z": -22.22
+      },
+      "max": {
+        "x": 29.5,
+        "y": 0.6,
+        "z": -21.78
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28.9,
+        "y": 0,
+        "z": -12.22
+      },
+      "max": {
+        "x": 29.5,
+        "y": 0.6,
+        "z": -11.78
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28.9,
+        "y": 0,
+        "z": -2.22
+      },
+      "max": {
+        "x": 29.5,
+        "y": 0.6,
+        "z": -1.78
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28.9,
+        "y": 0,
+        "z": 8.78
+      },
+      "max": {
+        "x": 29.5,
+        "y": 0.6,
+        "z": 9.22
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28.9,
+        "y": 0,
+        "z": 16.18
+      },
+      "max": {
+        "x": 29.5,
+        "y": 0.6,
+        "z": 16.62
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28.9,
+        "y": 0,
+        "z": 25.38
+      },
+      "max": {
+        "x": 29.5,
+        "y": 0.6,
+        "z": 25.82
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 18.22,
+        "y": 0,
+        "z": -29.61
+      },
+      "max": {
+        "x": 18.78,
+        "y": 0.75,
+        "z": -28.89
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 18.22,
+        "y": 0,
+        "z": 26.89
+      },
+      "max": {
+        "x": 18.78,
+        "y": 0.75,
+        "z": 27.61
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28.22,
+        "y": 0,
+        "z": -29.61
+      },
+      "max": {
+        "x": 28.78,
+        "y": 0.75,
+        "z": -28.89
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28.22,
+        "y": 0,
+        "z": 26.89
+      },
+      "max": {
+        "x": 28.78,
+        "y": 0.75,
+        "z": 27.61
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 21.15,
+        "y": 0,
+        "z": -20.65
+      },
+      "max": {
+        "x": 25.45,
+        "y": 1.3,
+        "z": -10.15
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 21.55,
+        "y": 0,
+        "z": 9.15
+      },
+      "max": {
+        "x": 25.85,
+        "y": 1.3,
+        "z": 19.65
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.356624,
+        "y": 0,
+        "z": -3.79566
+      },
+      "max": {
+        "x": 20.930685,
+        "y": 0.33,
+        "z": -3.221599
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.284797,
+        "y": 0,
+        "z": -4.391345
+      },
+      "max": {
+        "x": 20.858858,
+        "y": 0.33,
+        "z": -3.817284
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.21297,
+        "y": 0,
+        "z": -4.98703
+      },
+      "max": {
+        "x": 20.78703,
+        "y": 0.33,
+        "z": -4.41297
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.141142,
+        "y": 0,
+        "z": -5.582716
+      },
+      "max": {
+        "x": 20.715203,
+        "y": 0.33,
+        "z": -5.008655
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.069315,
+        "y": 0,
+        "z": -6.178401
+      },
+      "max": {
+        "x": 20.643376,
+        "y": 0.33,
+        "z": -5.60434
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.535173,
+        "y": 0.33,
+        "z": -3.501164
+      },
+      "max": {
+        "x": 20.78805,
+        "y": 0.81,
+        "z": -3.218252
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.499259,
+        "y": 0.33,
+        "z": -3.799007
+      },
+      "max": {
+        "x": 20.752137,
+        "y": 0.81,
+        "z": -3.516095
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.463345,
+        "y": 0.33,
+        "z": -4.09685
+      },
+      "max": {
+        "x": 20.716223,
+        "y": 0.81,
+        "z": -3.813937
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.427432,
+        "y": 0.33,
+        "z": -4.394692
+      },
+      "max": {
+        "x": 20.680309,
+        "y": 0.81,
+        "z": -4.11178
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.391518,
+        "y": 0.33,
+        "z": -4.692535
+      },
+      "max": {
+        "x": 20.644396,
+        "y": 0.81,
+        "z": -4.409623
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.355604,
+        "y": 0.33,
+        "z": -4.990377
+      },
+      "max": {
+        "x": 20.608482,
+        "y": 0.81,
+        "z": -4.707465
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.319691,
+        "y": 0.33,
+        "z": -5.28822
+      },
+      "max": {
+        "x": 20.572568,
+        "y": 0.81,
+        "z": -5.005308
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.283777,
+        "y": 0.33,
+        "z": -5.586063
+      },
+      "max": {
+        "x": 20.536655,
+        "y": 0.81,
+        "z": -5.30315
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.247863,
+        "y": 0.33,
+        "z": -5.883905
+      },
+      "max": {
+        "x": 20.500741,
+        "y": 0.81,
+        "z": -5.600993
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.21195,
+        "y": 0.33,
+        "z": -6.181748
+      },
+      "max": {
+        "x": 20.464827,
+        "y": 0.81,
+        "z": -5.898836
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 23.819806,
+        "y": 0,
+        "z": 2.557483
+      },
+      "max": {
+        "x": 24.428034,
+        "y": 0.33,
+        "z": 3.165711
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 24.407846,
+        "y": 0,
+        "z": 2.676685
+      },
+      "max": {
+        "x": 25.016074,
+        "y": 0.33,
+        "z": 3.284912
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 24.995886,
+        "y": 0,
+        "z": 2.795886
+      },
+      "max": {
+        "x": 25.604114,
+        "y": 0.33,
+        "z": 3.404114
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 25.583926,
+        "y": 0,
+        "z": 2.915088
+      },
+      "max": {
+        "x": 26.192154,
+        "y": 0.33,
+        "z": 3.523315
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.171966,
+        "y": 0,
+        "z": 3.034289
+      },
+      "max": {
+        "x": 26.780194,
+        "y": 0.33,
+        "z": 3.642517
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 23.82827,
+        "y": 0.33,
+        "z": 2.696597
+      },
+      "max": {
+        "x": 24.12555,
+        "y": 0.81,
+        "z": 2.966996
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 24.12229,
+        "y": 0.33,
+        "z": 2.756197
+      },
+      "max": {
+        "x": 24.41957,
+        "y": 0.81,
+        "z": 3.026597
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 24.41631,
+        "y": 0.33,
+        "z": 2.815798
+      },
+      "max": {
+        "x": 24.71359,
+        "y": 0.81,
+        "z": 3.086198
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 24.71033,
+        "y": 0.33,
+        "z": 2.875399
+      },
+      "max": {
+        "x": 25.00761,
+        "y": 0.81,
+        "z": 3.145799
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 25.00435,
+        "y": 0.33,
+        "z": 2.935
+      },
+      "max": {
+        "x": 25.30163,
+        "y": 0.81,
+        "z": 3.205399
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 25.29837,
+        "y": 0.33,
+        "z": 2.994601
+      },
+      "max": {
+        "x": 25.59565,
+        "y": 0.81,
+        "z": 3.265
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 25.59239,
+        "y": 0.33,
+        "z": 3.054201
+      },
+      "max": {
+        "x": 25.88967,
+        "y": 0.81,
+        "z": 3.324601
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 25.88641,
+        "y": 0.33,
+        "z": 3.113802
+      },
+      "max": {
+        "x": 26.18369,
+        "y": 0.81,
+        "z": 3.384202
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.18043,
+        "y": 0.33,
+        "z": 3.173403
+      },
+      "max": {
+        "x": 26.47771,
+        "y": 0.81,
+        "z": 3.443803
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.47445,
+        "y": 0.33,
+        "z": 3.233004
+      },
+      "max": {
+        "x": 26.77173,
+        "y": 0.81,
+        "z": 3.503403
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 24.555569,
+        "y": 0,
+        "z": -3.985987
+      },
+      "max": {
+        "x": 26.844431,
+        "y": 1.25,
+        "z": -2.614013
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.054555,
+        "y": 0,
+        "z": 3.279261
+      },
+      "max": {
+        "x": 20.725016,
+        "y": 0.9,
+        "z": 3.986052
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.26477,
+        "y": 0,
+        "z": 2.646605
+      },
+      "max": {
+        "x": 20.93523,
+        "y": 0.9,
+        "z": 3.353395
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.474984,
+        "y": 0,
+        "z": 2.013948
+      },
+      "max": {
+        "x": 21.145445,
+        "y": 0.9,
+        "z": 2.720739
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.549892,
+        "y": 0,
+        "z": -1.400108
+      },
+      "max": {
+        "x": 27.250108,
+        "y": 0.9,
+        "z": -0.699892
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.015463,
+        "y": 0,
+        "z": 0.933331
+      },
+      "max": {
+        "x": 21.084537,
+        "y": 0.75,
+        "z": 1.766669
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.154774,
+        "y": 0,
+        "z": -29.857355
+      },
+      "max": {
+        "x": 26.245226,
+        "y": 2.59,
+        "z": -27.342645
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.705686,
+        "y": 0.14,
+        "z": -29.794072
+      },
+      "max": {
+        "x": 20.234834,
+        "y": 2.44,
+        "z": -27.487911
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.192673,
+        "y": 2.59,
+        "z": -29.82382
+      },
+      "max": {
+        "x": 26.276409,
+        "y": 5.18,
+        "z": -27.326206
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.743374,
+        "y": 2.73,
+        "z": -29.695584
+      },
+      "max": {
+        "x": 20.266021,
+        "y": 5.03,
+        "z": -27.390768
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.948914,
+        "y": 0,
+        "z": -27.222399
+      },
+      "max": {
+        "x": 26.051086,
+        "y": 2.59,
+        "z": -24.677601
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.500205,
+        "y": 0.14,
+        "z": -27.161369
+      },
+      "max": {
+        "x": 20.040805,
+        "y": 2.44,
+        "z": -24.852885
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 13.871997,
+        "y": 0,
+        "z": -27.165061
+      },
+      "max": {
+        "x": 16.128003,
+        "y": 1.21,
+        "z": -26.034939
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 16.270912,
+        "y": 0,
+        "z": -23.729088
+      },
+      "max": {
+        "x": 16.529088,
+        "y": 2.2,
+        "z": -23.470912
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.345773,
+        "y": 0,
+        "z": -19.228613
+      },
+      "max": {
+        "x": 27.654227,
+        "y": 1.25,
+        "z": -16.971387
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 23.7,
+        "y": 0,
+        "z": -9.9
+      },
+      "max": {
+        "x": 24.5,
+        "y": 1,
+        "z": -9.1
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 24.583189,
+        "y": 0,
+        "z": -10.066811
+      },
+      "max": {
+        "x": 25.516811,
+        "y": 1,
+        "z": -9.133189
+      },
+      "surface": "rubber",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 13.609259,
+        "y": 0,
+        "z": -13.199126
+      },
+      "max": {
+        "x": 14.392052,
+        "y": 1.3,
+        "z": -12.347752
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 14.207948,
+        "y": 0,
+        "z": -13.452248
+      },
+      "max": {
+        "x": 14.990741,
+        "y": 1.3,
+        "z": -12.600874
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 15.289182,
+        "y": 0,
+        "z": -14.368155
+      },
+      "max": {
+        "x": 16.120956,
+        "y": 1.3,
+        "z": -13.61675
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 15.079044,
+        "y": 0,
+        "z": -14.98325
+      },
+      "max": {
+        "x": 15.910818,
+        "y": 1.3,
+        "z": -14.231845
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.653081,
+        "y": 0,
+        "z": -9.857402
+      },
+      "max": {
+        "x": 20.946919,
+        "y": 1.152,
+        "z": -8.742598
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.33376,
+        "y": 0,
+        "z": -23.109496
+      },
+      "max": {
+        "x": 20.46624,
+        "y": 1,
+        "z": -22.090504
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 12.45,
+        "y": 0,
+        "z": -23.6
+      },
+      "max": {
+        "x": 13.05,
+        "y": 0.9,
+        "z": -23
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 12.6,
+        "y": 0,
+        "z": -24.4
+      },
+      "max": {
+        "x": 13.2,
+        "y": 0.9,
+        "z": -23.8
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.2,
+        "y": 0,
+        "z": -29.1
+      },
+      "max": {
+        "x": 27,
+        "y": 0.32,
+        "z": -28.3
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.43,
+        "y": 0.32,
+        "z": -28.87
+      },
+      "max": {
+        "x": 26.77,
+        "y": 14,
+        "z": -28.53
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.2,
+        "y": 0,
+        "z": 26.3
+      },
+      "max": {
+        "x": 27,
+        "y": 0.32,
+        "z": 27.1
+      },
+      "surface": "concrete",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.43,
+        "y": 0.32,
+        "z": 26.53
+      },
+      "max": {
+        "x": 26.77,
+        "y": 14,
+        "z": 26.87
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.476886,
+        "y": 0,
+        "z": 21.756492
+      },
+      "max": {
+        "x": 21.723114,
+        "y": 1.25,
+        "z": 23.043508
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.566001,
+        "y": 0,
+        "z": 23.535119
+      },
+      "max": {
+        "x": 21.833999,
+        "y": 1.25,
+        "z": 24.864881
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.012814,
+        "y": 0,
+        "z": 5.04709
+      },
+      "max": {
+        "x": 27.187186,
+        "y": 0.75,
+        "z": 5.95291
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.156761,
+        "y": 0,
+        "z": 6.020071
+      },
+      "max": {
+        "x": 27.243239,
+        "y": 0.75,
+        "z": 6.879929
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 25.808858,
+        "y": 0,
+        "z": 23.076058
+      },
+      "max": {
+        "x": 26.991142,
+        "y": 1.9,
+        "z": 24.123942
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 21.97576,
+        "y": 0,
+        "z": 25.770637
+      },
+      "max": {
+        "x": 23.22424,
+        "y": 1.16,
+        "z": 26.829363
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 23.408858,
+        "y": 0,
+        "z": 25.676058
+      },
+      "max": {
+        "x": 24.591142,
+        "y": 1.152,
+        "z": 26.723942
+      },
+      "surface": "wood",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 22.3,
+        "y": 0,
+        "z": 20
+      },
+      "max": {
+        "x": 22.9,
+        "y": 0.9,
+        "z": 20.6
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 23.1,
+        "y": 0,
+        "z": 20.1
+      },
+      "max": {
+        "x": 23.7,
+        "y": 0.9,
+        "z": 20.7
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 19.6,
+        "y": 0,
+        "z": 11.4
+      },
+      "max": {
+        "x": 21,
+        "y": 1.392565,
+        "z": 13.8
+      },
+      "surface": "dirt",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.907913,
+        "y": 0.16,
+        "z": 7.255824
+      },
+      "max": {
+        "x": 1.560073,
+        "y": 1.67,
+        "z": 7.949022
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.443356,
+        "y": 0.16,
+        "z": 7.060372
+      },
+      "max": {
+        "x": 2.095516,
+        "y": 1.67,
+        "z": 7.75357
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 1.037852,
+        "y": 1.67,
+        "z": 7.339027
+      },
+      "max": {
+        "x": 1.302513,
+        "y": 2.5,
+        "z": 7.603687
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.354046,
+        "y": 0.19,
+        "z": -19.503532
+      },
+      "max": {
+        "x": -1.725244,
+        "y": 1.7,
+        "z": -18.931921
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.264879,
+        "y": 0.19,
+        "z": -20.066515
+      },
+      "max": {
+        "x": -1.636077,
+        "y": 1.7,
+        "z": -19.494903
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -2.30328,
+        "y": 1.7,
+        "z": -19.343668
+      },
+      "max": {
+        "x": -2.067133,
+        "y": 2.53,
+        "z": -19.107521
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 22.423945,
+        "y": 0.16,
+        "z": -0.374343
+      },
+      "max": {
+        "x": 23.01543,
+        "y": 1.67,
+        "z": 0.270902
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 22.982583,
+        "y": 0.16,
+        "z": -0.261101
+      },
+      "max": {
+        "x": 23.574068,
+        "y": 1.67,
+        "z": 0.384144
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 22.612148,
+        "y": 1.67,
+        "z": -0.318456
+      },
+      "max": {
+        "x": 22.855439,
+        "y": 2.5,
+        "z": -0.075165
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 20.046578,
+        "y": 0,
+        "z": -7.583096
+      },
+      "max": {
+        "x": 20.753422,
+        "y": 1.05,
+        "z": -7.016904
+      },
+      "surface": "metal",
+      "tag": "",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": -8.1
+      },
+      "max": {
+        "x": 19,
+        "y": 1.5,
+        "z": -2.7
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 17.88,
+        "y": 0,
+        "z": -6.02
+      },
+      "max": {
+        "x": 19.12,
+        "y": 24,
+        "z": -4.78
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": 2.7
+      },
+      "max": {
+        "x": 19,
+        "y": 1.5,
+        "z": 8.1
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 17.88,
+        "y": 0,
+        "z": 4.78
+      },
+      "max": {
+        "x": 19.12,
+        "y": 24,
+        "z": 6.02
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28,
+        "y": 0,
+        "z": -8.1
+      },
+      "max": {
+        "x": 29,
+        "y": 1.5,
+        "z": -2.7
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 27.88,
+        "y": 0,
+        "z": -6.02
+      },
+      "max": {
+        "x": 29.12,
+        "y": 24,
+        "z": -4.78
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 28,
+        "y": 0,
+        "z": 2.7
+      },
+      "max": {
+        "x": 29,
+        "y": 1.5,
+        "z": 8.1
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 27.88,
+        "y": 0,
+        "z": 4.78
+      },
+      "max": {
+        "x": 29.12,
+        "y": 24,
+        "z": 6.02
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 17.5,
+        "y": 0,
+        "z": -1.15
+      },
+      "max": {
+        "x": 17.86,
+        "y": 0.5,
+        "z": -0.65
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 18.63,
+        "y": 0,
+        "z": 6.95
+      },
+      "max": {
+        "x": 19.4,
+        "y": 4.7,
+        "z": 7.75
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 33,
+        "y": -5,
+        "z": -72
+      },
+      "max": {
+        "x": 49,
+        "y": 15,
+        "z": -17.5
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 34.9,
+        "y": -5,
+        "z": -17.5
+      },
+      "max": {
+        "x": 47.1,
+        "y": 15.5,
+        "z": -13
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 37.7,
+        "y": -5,
+        "z": -13
+      },
+      "max": {
+        "x": 44.3,
+        "y": 16,
+        "z": -9.3
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 33.8,
+        "y": 13,
+        "z": -66.5
+      },
+      "max": {
+        "x": 48.2,
+        "y": 24.4,
+        "z": -53
+      },
+      "surface": "metal",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 30.25,
+        "y": -1.7,
+        "z": 17.4
+      },
+      "max": {
+        "x": 32.8,
+        "y": -0.7,
+        "z": 24.6
+      },
+      "surface": "rubber",
+      "tag": "backdrop",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 4.6,
+        "y": 0,
+        "z": 9.4
+      },
+      "max": {
+        "x": 5.2,
+        "y": 0.9,
+        "z": 10
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 9.15,
+        "y": 0,
+        "z": -10.7
+      },
+      "max": {
+        "x": 10.05,
+        "y": 1.6,
+        "z": -10.2
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -17.15,
+        "y": 0,
+        "z": -20.85
+      },
+      "max": {
+        "x": -16.65,
+        "y": 1.6,
+        "z": -19.95
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 5.583007,
+        "y": 0.03,
+        "z": -18.816993
+      },
+      "max": {
+        "x": 6.416993,
+        "y": 0.93,
+        "z": -17.983007
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 10.45,
+        "y": 0.03,
+        "z": -12.15
+      },
+      "max": {
+        "x": 11.35,
+        "y": 1.63,
+        "z": -11.65
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 26.2,
+        "y": 0,
+        "z": -2
+      },
+      "max": {
+        "x": 26.8,
+        "y": 0.9,
+        "z": -1.4
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -12.338405,
+        "y": 0,
+        "z": 5.861595
+      },
+      "max": {
+        "x": -11.661595,
+        "y": 0.9,
+        "z": 6.538405
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -6.626415,
+        "y": 0,
+        "z": 1.173585
+      },
+      "max": {
+        "x": -5.973585,
+        "y": 0.9,
+        "z": 1.826415
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 7.420025,
+        "y": 0,
+        "z": 7.120025
+      },
+      "max": {
+        "x": 8.179975,
+        "y": 0.9,
+        "z": 7.879975
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 12.605548,
+        "y": 0,
+        "z": 14.405548
+      },
+      "max": {
+        "x": 13.394452,
+        "y": 0.9,
+        "z": 15.194452
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -14.420383,
+        "y": 0,
+        "z": 12.279617
+      },
+      "max": {
+        "x": -13.579617,
+        "y": 0.9,
+        "z": 13.120383
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.606269,
+        "y": 0,
+        "z": 17.306269
+      },
+      "max": {
+        "x": 1.393731,
+        "y": 0.9,
+        "z": 18.093731
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 8.825403,
+        "y": 0,
+        "z": 20.625403
+      },
+      "max": {
+        "x": 9.574597,
+        "y": 0.9,
+        "z": 21.374597
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -18.609308,
+        "y": 0,
+        "z": 17.090692
+      },
+      "max": {
+        "x": -17.790692,
+        "y": 0.9,
+        "z": 17.909308
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 18.61302,
+        "y": 0,
+        "z": 8.91302
+      },
+      "max": {
+        "x": 19.38698,
+        "y": 0.9,
+        "z": 9.68698
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 21.448283,
+        "y": 0,
+        "z": -6.351717
+      },
+      "max": {
+        "x": 22.151717,
+        "y": 0.9,
+        "z": -5.648283
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 23.617277,
+        "y": 0,
+        "z": 7.817277
+      },
+      "max": {
+        "x": 24.382723,
+        "y": 0.9,
+        "z": 8.582723
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -21.397445,
+        "y": 0,
+        "z": -7.697445
+      },
+      "max": {
+        "x": -20.602555,
+        "y": 0.9,
+        "z": -6.902555
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 0.829968,
+        "y": 0.03,
+        "z": -15.370032
+      },
+      "max": {
+        "x": 1.570032,
+        "y": 0.93,
+        "z": -14.629968
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": -10.874387,
+        "y": 0.03,
+        "z": -22.074387
+      },
+      "max": {
+        "x": -10.125613,
+        "y": 0.93,
+        "z": -21.325613
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    },
+    {
+      "min": {
+        "x": 8.653647,
+        "y": 0.03,
+        "z": -25.146353
+      },
+      "max": {
+        "x": 9.346353,
+        "y": 0.93,
+        "z": -24.453647
+      },
+      "surface": "metal",
+      "tag": "explosive",
+      "noNav": false,
+      "bulletOnly": false,
+      "playerOnly": false
+    }
+  ],
+  "spawnPoints": [
+    {
+      "pos": {
+        "x": -32,
+        "y": 0,
+        "z": 6
+      },
+      "yaw": -1.570796
+    },
+    {
+      "pos": {
+        "x": -19,
+        "y": 0,
+        "z": -1.4
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 3.5,
+        "y": 0,
+        "z": -1.6
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 14.2,
+        "y": 0,
+        "z": 16.4
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -3.2,
+        "y": 0,
+        "z": 16.6
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -16,
+        "y": 0,
+        "z": 26
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 6,
+        "y": 0,
+        "z": 26
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 4.2,
+        "y": 0,
+        "z": -5.12
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -7.8,
+        "y": 0,
+        "z": 21.4
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -10.3,
+        "y": 0,
+        "z": 12.5
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 18,
+        "y": 0,
+        "z": 22.2
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -12.4,
+        "y": 0.03,
+        "z": -24.8
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -13.4,
+        "y": 0.03,
+        "z": -19.6
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 4.6,
+        "y": 0.03,
+        "z": -13.8
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -21,
+        "y": 0,
+        "z": -27.2
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -18.6,
+        "y": 0,
+        "z": -22
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 14.1,
+        "y": 0,
+        "z": -24
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": -26.6,
+        "y": 0,
+        "z": -15
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 27.7,
+        "y": 0,
+        "z": -24.2
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 18.3,
+        "y": 0,
+        "z": -25.4
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 27.2,
+        "y": 0,
+        "z": -12.6
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 20.907105,
+        "y": 0,
+        "z": 14.707108
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 23.4,
+        "y": 0,
+        "z": 23.2
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 18,
+        "y": 0,
+        "z": 24.4
+      },
+      "yaw": 0
+    },
+    {
+      "pos": {
+        "x": 27.4,
+        "y": 0,
+        "z": 11.6
+      },
+      "yaw": 0
+    }
+  ]
+}
