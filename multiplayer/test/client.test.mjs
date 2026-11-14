@@ -100,9 +100,12 @@ function setup() {
     events: { on: (type, fn) => events.set(type, fn), emit: (type, data) => { if (events.has(type)) events.get(type)(data); } }
   };
   const sandbox = {
+    // Rendering has a separate real Three/WebGL check (scripts/check-soldier).
+    // Keep these tests focused on network prediction and engine integration.
+    createAvatar: () => ({ root: new Node(), shoot: noop, update: noop, dispose: noop }),
     RULES, createWorld, simulatePlayer, raycastWorld, tracePlayerHit,
     captureWorld: () => map, fingerprintWorld: value => value.hash,
-    URL, document, window, location, performance: { now: () => 1000 },
+    URL, URLSearchParams, document, window, location, performance: { now: () => 1000 },
     navigator: { clipboard: { writeText: async () => {} } },
     history: { replaceState: (_, __, url) => { sandbox.lastURL = url; } },
     sessionStorage: { getItem: key => storage.get(key) || null, setItem: (key, value) => storage.set(key, value), removeItem: key => storage.delete(key) },
@@ -306,5 +309,15 @@ test('loopback addresses cannot be copied as an Internet invitation', async () =
   assert.match(client.ui.elements.description.textContent, /公网游戏地址/);
   await client.ui.elements.copy.onclick();
   assert.equal(copies, 0);
+});
+
+test('an authored character choice follows the private invite without adding credentials', () => {
+  const env = setup();
+  env.sandbox.location.search = '?soldier=glb';
+  const client = env.client();
+  const invite = new URL(client.ui.elements.link.value);
+  assert.equal(invite.searchParams.get('soldier'), 'glb');
+  assert.equal(invite.searchParams.get('room'), 'room-123');
+  assert.equal(invite.href.includes('secret'), false);
 });
 
