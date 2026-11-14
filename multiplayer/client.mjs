@@ -1,3 +1,4 @@
+import { createAvatar } from './soldier.mjs';
 import { RULES, createWorld, simulatePlayer, raycastWorld, tracePlayerHit } from './shared/simulation.mjs';
 import { captureWorld, fingerprintWorld } from './shared/map-utils.mjs';
 
@@ -52,74 +53,6 @@ function createUI() {
   root.querySelectorAll('[data-el]').forEach(el => { elements[el.dataset.el] = el; });
   root.querySelectorAll('[data-act]').forEach(el => { elements[el.dataset.act] = el; });
   return { root, elements };
-}
-
-function createAvatar(ctx) {
-  const T = ctx.THREE;
-  const root = new T.Group();
-  const body = new T.Group();
-  root.add(body);
-  const cloth = new T.MeshStandardMaterial({ color: 0x435b62, roughness: 0.85 });
-  const armor = new T.MeshStandardMaterial({ color: 0x18262c, roughness: 0.55, metalness: 0.3 });
-  const stripe = new T.MeshStandardMaterial({ color: 0xffb347, roughness: 0.5 });
-  const gunMat = new T.MeshStandardMaterial({ color: 0x11181b, roughness: 0.45, metalness: 0.65 });
-  const add = (geometry, material, x, y, z, parent = body) => {
-    const mesh = new T.Mesh(geometry, material);
-    mesh.position.set(x, y, z);
-    mesh.castShadow = true;
-    mesh.receiveShadow = true;
-    parent.add(mesh);
-    return mesh;
-  };
-  add(new T.BoxGeometry(0.47, 0.65, 0.27), cloth, 0, 1.13, 0);
-  add(new T.BoxGeometry(0.49, 0.41, 0.12), armor, 0, 1.18, -0.15);
-  add(new T.BoxGeometry(0.28, 0.06, 0.02), stripe, 0, 1.29, -0.22);
-  add(new T.SphereGeometry(0.16, 12, 8), armor, 0, 1.61, 0);
-  add(new T.BoxGeometry(0.25, 0.07, 0.05), stripe, 0, 1.63, -0.145);
-  const leftLeg = new T.Group(), rightLeg = new T.Group();
-  leftLeg.position.set(-0.13, 0.77, 0); rightLeg.position.set(0.13, 0.77, 0);
-  body.add(leftLeg, rightLeg);
-  add(new T.BoxGeometry(0.17, 0.65, 0.19), cloth, 0, -0.32, 0, leftLeg);
-  add(new T.BoxGeometry(0.17, 0.65, 0.19), cloth, 0, -0.32, 0, rightLeg);
-  add(new T.BoxGeometry(0.19, 0.13, 0.3), armor, 0, -0.7, -0.04, leftLeg);
-  add(new T.BoxGeometry(0.19, 0.13, 0.3), armor, 0, -0.7, -0.04, rightLeg);
-  const arms = new T.Group();
-  arms.position.set(0, 1.26, -0.05);
-  body.add(arms);
-  add(new T.BoxGeometry(0.14, 0.14, 0.45), cloth, -0.25, -0.06, -0.15, arms);
-  add(new T.BoxGeometry(0.14, 0.14, 0.4), cloth, 0.23, -0.07, -0.15, arms);
-  add(new T.BoxGeometry(0.08, 0.13, 0.54), gunMat, 0.1, -0.07, -0.39, arms);
-  const flash = add(new T.SphereGeometry(0.075, 8, 6), new T.MeshBasicMaterial({ color: 0xffd28a }), 0.1, -0.07, -0.7, arms);
-  flash.visible = false;
-  const shield = new T.Mesh(new T.CapsuleGeometry(0.4, 1.05, 4, 8), new T.MeshBasicMaterial({ color: 0xffb347, wireframe: true, transparent: true, opacity: 0.25, depthWrite: false }));
-  shield.position.y = 0.92;
-  body.add(shield);
-  ctx.scene.add(root);
-  let flashUntil = 0;
-  return {
-    root,
-    shoot() { flashUntil = performance.now() + 55; },
-    update(p, clock) {
-      root.visible = !!p && p.alive;
-      if (!p) return;
-      root.position.set(p.pos.x, p.pos.y, p.pos.z);
-      root.rotation.y = p.yaw;
-      body.scale.y = p.crouching ? 1.15 / 1.8 : 1;
-      const speed = Math.hypot(p.vel.x, p.vel.z);
-      leftLeg.rotation.x = Math.sin(clock * 10) * Math.min(0.55, speed * 0.09);
-      rightLeg.rotation.x = -leftLeg.rotation.x;
-      arms.rotation.x = p.pitch;
-      flash.visible = clock * 1000 < flashUntil;
-      shield.visible = p.invulnerableFor > 0;
-    },
-    dispose() {
-      root.removeFromParent();
-      root.traverse(mesh => {
-        if (mesh.geometry) mesh.geometry.dispose();
-        if (mesh.material) mesh.material.dispose();
-      });
-    }
-  };
 }
 
 class DuelClient {
@@ -469,6 +402,7 @@ class DuelClient {
       ctx.events.emit('weapon:fire', { origin: start, muzzle: start, dir: new ctx.THREE.Vector3(event.dir.x, event.dir.y, event.dir.z), remote: true });
     } else if (event.type === 'hit') {
       if (event.shooterId === this.playerId && ctx.hud.hitmarker) ctx.hud.hitmarker('hit');
+      if (event.targetId && event.targetId !== this.playerId) this.avatar.hit?.(event.origin);
       if (event.targetId === this.playerId) {
         this.cosmetic.hurt = 1;
         if (event.origin) ctx.events.emit('player:hit', { amount: event.amount, fromPos: new ctx.THREE.Vector3(event.origin.x, event.origin.y, event.origin.z) });
@@ -619,6 +553,8 @@ class DuelClient {
     el.status.textContent = !this.connected && !this.stopped ? '正在连接联机服务…' : 'SALTLINE · 10 杀获胜';
     const inviteURL = new URL(location.pathname, location.origin);
     inviteURL.searchParams.set('room', this.roomId);
+    const authoredFormat = new URLSearchParams(location.search).get('soldier');
+    if (authoredFormat === 'glb' || authoredFormat === 'gltf') inviteURL.searchParams.set('soldier', authoredFormat);
     if (el.link.value !== inviteURL.href) el.link.value = inviteURL.href;
     el.copy.disabled = this.isLocalOnly;
     el.copy.textContent = this.isLocalOnly ? '仅本机测试' : '复制链接';
@@ -686,6 +622,7 @@ class DuelClient {
     this.send({ type: 'leave' });
     this.stopped = true;
     this.neutral();
+    this.avatar.dispose();
     clearTimeout(this.retryTimer);
     if (this.socket) this.socket.close();
     try { sessionStorage.removeItem(credentialKey(this.roomId)); } catch {}

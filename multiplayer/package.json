@@ -14,7 +14,10 @@
     "test:simulation": "node --test test/simulation.test.mjs",
     "export-map": "node scripts/export-map.mjs",
     "check-map": "node scripts/export-map.mjs --check",
-    "smoke-browser": "node scripts/smoke-browser.mjs"
+    "smoke-browser": "node scripts/smoke-browser.mjs",
+    "check-soldier": "node scripts/check-soldier.mjs",
+    "check-soldier-gltf": "node scripts/check-soldier-gltf.mjs",
+    "soldier-lab": "node scripts/soldier-lab.mjs --shots scripts/soldier-lab-shots.json --sheet 4x420"
   },
   "dependencies": {
     "ws": "8.22.2"
@@ -23,4 +26,3 @@
     "playwright": "1.65.0"
   }
 }
-
