@@ -1,0 +1,18 @@
+[
+ {"name":"持枪-三分之四","camera":{"preset":"three"}},
+ {"name":"持枪-侧面","camera":{"preset":"side"}},
+ {"name":"持枪-正面","camera":{"preset":"front"}},
+ {"name":"肩部与握持特写","camera":{"preset":"close"}},
+ {"name":"行走","pose":{"vel":{"x":0,"y":0,"z":-3.8}},"frames":40,"camera":{"preset":"side"}},
+ {"name":"冲刺低持枪","pose":{"vel":{"x":0,"y":0,"z":-6.4},"sprinting":true},"frames":50,"camera":{"preset":"side"}},
+ {"name":"侧移","pose":{"vel":{"x":3.8,"y":0,"z":0}},"frames":40,"camera":{"preset":"front"}},
+ {"name":"后退","pose":{"vel":{"x":0,"y":0,"z":3.0}},"frames":37,"camera":{"preset":"side"}},
+ {"name":"单膝跪射","pose":{"crouching":true},"camera":{"preset":"three"}},
+ {"name":"蹲走","pose":{"crouching":true,"vel":{"x":0,"y":0,"z":-1.9}},"frames":45,"camera":{"preset":"side"}},
+ {"name":"跳跃","pose":{"onGround":false,"vel":{"x":0,"y":3,"z":-3.8}},"frames":20,"camera":{"preset":"side"}},
+ {"name":"仰射","pose":{"pitch":0.7},"camera":{"preset":"side"}},
+ {"name":"换弹-拔弹匣","pose":{"reloadRemaining":1.89,"ammo":12},"frames":2,"camera":{"preset":"hands"}},
+ {"name":"换弹-取新弹匣","pose":{"reloadRemaining":1.0,"ammo":12},"frames":2,"camera":{"preset":"hands"}},
+ {"name":"站立","frames":40,"camera":{"preset":"three"}},
+ {"name":"死亡倒地","pose":{"alive":false},"frames":60,"camera":{"preset":"three"}}
+]
