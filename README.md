@@ -23,3 +23,8 @@ npm start
 
 原游戏参考来源：[realcodebear/saltline-fable-5.2](https://github.com/realcodebear/saltline-fable-5.2)。原版源码中的作者说明和署名保持不变。
 
+人物已按战术三视图重构，并统一为以中轴线镜像生成的身体与装备系统：连续褶皱曲面、蒙皮裤管、弧面盔甲、贴合躯干的背心/肩带、等间距五联弹匣袋及鞋楦式靴面。裤腰跟随骨盆，护膝跟随裤管变形，左右肩、腿和装备共享尺寸参数。保留当前持枪、步态、换弹、受击与倒地功能。PAC-9 直接复用原枪资产，双臂继续使用原 Fh 几何、原握持点和独立骨架；第三人称袖子采用独立材质。
+
+完整源码分析、文件结构、可选 GLB/glTF 导入约定、LOD 预算与限制见 [TACTICAL_SOLDIER.md](TACTICAL_SOLDIER.md)。在 multiplayer 目录运行 `npm run check-soldier` 生成 25 张彩色/白模正交截图及对称、握持、动作验收报告（位于 `multiplayer/test-artifacts/soldier-symmetry/`）；`npm run check-soldier-gltf` 验证可选导入接口；`npm run soldier-lab` 批量评审动作。
+
+当前默认身体为程序化模型；归正评审姿势对称，实际持枪/换弹按左右手职责驱动。专业雕刻、烘焙和手工贴图资产可通过文档中的可选 GLB/glTF 接口接入。

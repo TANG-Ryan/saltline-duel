@@ -79,8 +79,9 @@ npm test 包含纯模拟测试及真实 HTTP/WebSocket 集成测试。npm run sm
 
 ## 当前验证状态
 
-- 依赖已通过 npm ci 安装；47 项 Node 测试已实际运行并全部通过，包括真实 HTTP/WebSocket 房间、计分、复活、断线重连和本机地址不可误分享等回归检查。
+- 依赖已通过 npm ci 安装；48 项 Node 测试已实际运行并全部通过，包括真实 HTTP/WebSocket 房间、计分、复活、断线重连和本机地址不可误分享等回归检查。
 - Playwright 真实双浏览器测试已通过：原 WebGL 场景加载、邀请加入、双方准备、移动同步、远端模型、菜单立即停火，以及原单人首页回归。
 - 本地实际游戏高、低画质的地图导出核验已通过。浏览器测试截图位于 test-artifacts/browser-smoke（不进入部署包）。
-- 尚未完成 Render 公网部署及不同网络的两台设备实机验收。部署需要可用的 Render 账号与仓库访问。
+- 既有公网测试入口：[SALTLINE 双人对战](https://saltline-duel.onrender.com/?multiplayer=1)。`main` 分支推送后由现有 Render 服务自动部署；不同网络的两台设备实机对战仍需玩家验证。
+- 人物升级采用原 PAC-9 与原 Fh 双臂，增加统一对称、装备贴合、连续蒙皮与三层 LOD；源码分析及角色验收见仓库根目录 `TACTICAL_SOLDIER.md`。
 

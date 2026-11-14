@@ -153,6 +153,11 @@ test('health, same-origin creation and static file allowlist', async (t) => {
   assert.equal((await fetch(env.base + '/multiplayer/server.mjs')).status, 404);
   assert.equal((await fetch(env.base + '/multiplayer/package.json')).status, 404);
   assert.equal((await fetch(env.base + '/.env')).status, 404);
+  for (const module of ['soldier.mjs', 'soldier-surfaces.mjs', 'soldier-meshes.mjs', 'soldier-symmetry.mjs', 'soldier-head.mjs', 'soldier-torso.mjs', 'soldier-lower.mjs', 'soldier-gltf.mjs', 'world-loadout.mjs']) {
+    const response = await fetch(env.base + '/multiplayer/' + module);
+    assert.equal(response.status, 200, 'The browser must be able to import the avatar modules');
+    assert.match(response.headers.get('content-type'), /javascript/);
+  }
 });
 
 test('invite creates exactly two slots, requires both ready, rejects a third visitor', async (t) => {

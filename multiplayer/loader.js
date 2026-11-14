@@ -41,6 +41,11 @@
     const button = document.getElementById('saltline-duel-button');
     if (button) button.textContent = '正在连接联机服务…';
     try {
+      const authored = query.get('soldier');
+      if (authored === 'glb' || authored === 'gltf') {
+        const { prepareSoldierGLTF } = await import(new URL('soldier-gltf.mjs', assetBase).href);
+        await prepareSoldierGLTF(window.__G, new URL('assets/custom-soldier.' + authored, assetBase).href);
+      }
       const module = await import(new URL('client.mjs', assetBase).href);
       await module.startMultiplayer(window.__G, { roomId: invited });
       started = true;
